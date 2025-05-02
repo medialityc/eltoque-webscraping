@@ -1,0 +1,7 @@
+# Probar la api
+
+GET http://127.0.0.1:8000/api/piratear-eltoque
+Accept: application/json
+
+###
+
