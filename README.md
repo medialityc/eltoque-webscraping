@@ -19,6 +19,10 @@
     - **Estadísticas**: Las tasas de cambios y bulto de cosas. `OJO`: El dato que muestran ellos es la mediana.
     - **Fecha**: La vigencia de los datos.
 
+## ❤️ Healthcheck visual
+
+- `GET /healthcheck`: Página que muestra el estado de salud del endpoint principal.
+
 ## 📖 Documentación
 
 - `/docs`: Swagger de toda la vida.
