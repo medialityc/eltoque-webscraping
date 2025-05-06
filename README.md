@@ -9,7 +9,7 @@
 
 ## 🚀 Despliegues
 
-- [Prueba en Render](https://feliz-cumpleannos-eltoque-te-pirateamos-la-api.onrender.com/docs).
+- [Prueba en Render](https://feliz-cumpleannos-eltoque-te-pirateamos.onrender.com/docs).
 - [Servers de Mdialityc]().
 
 ## 🛠️ Endpoints
