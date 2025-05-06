@@ -1,5 +1,9 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
+from starlette.responses import HTMLResponse
+from starlette.staticfiles import StaticFiles
+from starlette.templating import Jinja2Templates
+
 from api.routes import router
 
 app = FastAPI(
@@ -17,5 +21,13 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+templates = Jinja2Templates(directory="templates")
+
+@app.get("/healthcheck", response_class=HTMLResponse, tags=["Healthcheck"])
+async def healthcheck_page(request: Request):
+    return templates.TemplateResponse("healthcheck.html", {"request": request})
 
 app.include_router(router)

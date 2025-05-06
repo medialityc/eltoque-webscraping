@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Healthcheck - elTOQUE Pirata API</title>
+  <link rel="stylesheet" href="/static/css/styles.css" />
+</head>
+<body>
+  <main class="container" role="main" aria-labelledby="pageTitle">
+    <h1 id="pageTitle" class="title">🏴‍☠️ Healthcheck - elTOQUE Pirata API</h1>
+    <p class="description">
+      Verifica el estado de salud del endpoint <code>/api/piratear-eltoque</code>
+    </p>
+
+    <button id="checkBtn" class="btn" aria-live="polite" aria-busy="false">
+      Hacer Healthcheck
+    </button>
+
+    <div id="status" class="status hidden" role="status" aria-live="polite" aria-atomic="true">
+      <svg id="icon" class="icon" viewBox="0 0 24 24" aria-hidden="true"></svg>
+      <span id="statusText" class="status-text"></span>
+      <span id="responseTime" class="response-time"></span>
+    </div>
+
+    <div id="loading" class="loading hidden" aria-hidden="true" aria-label="Cargando">
+      <div class="spinner"></div>
+      <p>Cargando datos...</p>
+    </div>
+  </main>
+
+  <script src="/static/js/healthcheck.js"></script>
+</body>
+</html>
