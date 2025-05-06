@@ -16,8 +16,7 @@
 
 - `GET /piratear-eltoque`: Te devuelve toda la info disponible de la página pirateada.
     - **Monedas**: Todas las monedas que manejan.
-    - **Estadísticas**: Las tasas de cambios y bulto de cosas más como algunos de los anuncios que los llevó a subir el
-      precio del dólar. `OJO`: El dato que muestran ellos es la mediana.
+    - **Estadísticas**: Las tasas de cambios y bulto de cosas. `OJO`: El dato que muestran ellos es la mediana.
     - **Fecha**: La vigencia de los datos.
 
 ## 📖 Documentación

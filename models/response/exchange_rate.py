@@ -24,4 +24,3 @@ class ExchangeRate(BaseModel):
     p_count_messages: Optional[float] = None
     unstable: Optional[bool] = None
     tendency: Optional[str] = None
-    messages: Optional[List[str]] = None

@@ -1,0 +1,2112 @@
+{
+  "props": {
+    "pageProps": {
+      "banners": {
+        "1": {
+          "enabled": false,
+          "clickCount": 0,
+          "showInHome": false,
+          "position": 1,
+          "type": "responsive",
+          "showIn": "article",
+          "interactions": [
+          ],
+          "categories": [
+          ],
+          "_id": "673a7161ee9a95001d676b32",
+          "contratado": false,
+          "url": "https://bit.ly/3AGFkIT",
+          "uuid": "haz-tu-donacion-y-llena-una-maleta-de-futuro-articles",
+          "title": "Haz tu donación y llena una maleta de futuro - Articles",
+          "createdAt": "2024-11-17T22:42:41.628Z",
+          "updatedAt": "2024-11-22T18:33:08.046Z",
+          "__v": 0,
+          "media": {
+            "_id": "6739c73dee9a95001d676a7b",
+            "name": "Banner pagina web Maleta (1).png",
+            "alternativeText": "",
+            "caption": "",
+            "hash": "Banner_pagina_web_Maleta_1_c6266301ed",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 2300.24,
+            "width": 8038,
+            "height": 1349,
+            "url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Banner_pagina_web_Maleta_1_c6266301ed.png/public",
+            "provider_metadata": {
+              "public_id": "Banner_pagina_web_Maleta_1_c6266301ed.png",
+              "resource_type": "png"
+            },
+            "provider": "multiple-provider",
+            "related": [
+              "6739c79fee9a95001d676a7d",
+              "673a7161ee9a95001d676b32",
+              "673a718dee9a95001d676b35"
+            ],
+            "createdAt": "2024-11-17T10:36:45.737Z",
+            "updatedAt": "2024-11-17T22:43:25.230Z",
+            "__v": 0,
+            "created_by": "6090283f7b5ed2000d4aef55",
+            "updated_by": "6090283f7b5ed2000d4aef55",
+            "id": "6739c73dee9a95001d676a7b"
+          },
+          "mediaMobile": {
+            "_id": "6739c74fee9a95001d676a7c",
+            "name": "Banner web movil (1).png",
+            "alternativeText": "",
+            "caption": "",
+            "hash": "Banner_web_movil_1_baaacaf84b",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 610.41,
+            "width": 1350,
+            "height": 1350,
+            "url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Banner_web_movil_1_baaacaf84b.png/public",
+            "provider_metadata": {
+              "public_id": "Banner_web_movil_1_baaacaf84b.png",
+              "resource_type": "png"
+            },
+            "provider": "multiple-provider",
+            "related": [
+              "6739c79fee9a95001d676a7d",
+              "673a7161ee9a95001d676b32",
+              "673a718dee9a95001d676b35"
+            ],
+            "createdAt": "2024-11-17T10:37:03.377Z",
+            "updatedAt": "2024-11-17T22:43:25.230Z",
+            "__v": 0,
+            "created_by": "6090283f7b5ed2000d4aef55",
+            "updated_by": "6090283f7b5ed2000d4aef55",
+            "id": "6739c74fee9a95001d676a7c"
+          },
+          "updated_by": {
+            "isActive": true,
+            "blocked": false,
+            "roles": [
+              "5fa1dcd3ee9805000d6b5375"
+            ],
+            "_id": "6090283f7b5ed2000d4aef55",
+            "username": null,
+            "registrationToken": "9465166b41ebb9479341158183eabce533fea9a4",
+            "firstname": "Beatriz",
+            "lastname": "Valdez",
+            "email": "beavm92@gmail.com",
+            "__v": 0,
+            "password": "$2a$10$yw49yF89AtY1gEKlSO15yOZAxXk9krMs2Q1LbAZrCJkWfOai/DC7K",
+            "id": "6090283f7b5ed2000d4aef55"
+          },
+          "id": "673a7161ee9a95001d676b32"
+        }
+      },
+      "hasError": false,
+      "article": {
+        "id": "63a498dbed8925001c35f865",
+        "title": "Preguntas y respuestas sobre la API de elTOQUE",
+        "slug": "preguntas-y-respuestas-sobre-la-api-de-eltoque",
+        "body": "\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eLa \u003c/span\u003e\u003ca href=\"https://eltoque.com/tasas-de-cambio-de-moneda-en-cuba-hoy\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\"\u003etasa representativa del mercado informal de divisas en Cuba (TRMI)\u003c/a\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e confeccionada por \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e\u0026nbsp;ha sido uno de los servicios más populares entre la audiencia de nuestra plataforma.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eVarios desarrolladores han solicitado que diéramos acceso a otros datos de la TRMI. Algunos han empleado métodos como el \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003escraping\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, una técnica utilizada mediante programas de software para extraer información de sitios web que podría afectar el desempeño del sitio, si se hace de forma incorrecta.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ePara facilitar un acceso seguro y estandarizado, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e presentó recientemente la interfaz de programación de aplicaciones o API de la TRMI, pero aún persisten muchas dudas entre los usuarios en cuanto a su uso, la forma de acceder a la misma y las funcionalidades que brinda.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"adsense-backend\" data-pos=\"1\" data-client=\"ca-pub-9665834629580390\" data-slot=\"6478851354\"\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Es la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e una apk?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo, no es una apk todavía. Se trata de una API, especificación que determina cuáles son las características que necesita el usuario para interactuar con nuestro sistema. Lo que brinda \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e es la tasa representativa del mercado informal de divisas, además de algunas de las tasas de las criptomonedas con las divisas.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn el caso de las criptomonedas, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e sí cuenta con valores de referencia de personas que realmente hicieron transacciones, es decir, a través de plataformas \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eexchange\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e donde se publica la oferta y la transacción que se ejecuta sí es real. En este sentido, los valores de las criptomonedas son más exactos que las ofertas de las divisas, puesto que estas últimas son únicamente referenciales, al tratarse de ofertas que las personas publican en las redes sociales.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"Para qué sirve la tasa de elTOQUE\" slug=\"para-que-sirve-la-tasa-de-eltoque\" image=\"/uploads/el_TOQUE_portada_ce92a22b2b.jpg\" excerpt=\"¿Cómo se usa la tasa representativa del mercado informal de divisas de elTOQUE? 302 respuestas de usuarios recurrentes hicieron posible identificar cinco tendencias de uso. El siguiente texto amplía al respecto.\n\" comments=\"14\" \u003e\u003ca href=\"/para-que-sirve-la-tasa-de-eltoque\"\u003e\u003cdiv class=\"w-full h-[auto] relative mb-2\" style=\"aspect-ratio:7/2\"\u003e\u003cimg alt=\"\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;color:transparent;z-index:-1\" sizes=\"80vw\" srcSet=\"https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/el_TOQUE_portada_ce92a22b2b.jpg/width=384,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 384w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/el_TOQUE_portada_ce92a22b2b.jpg/width=420,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 420w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/el_TOQUE_portada_ce92a22b2b.jpg/width=640,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 640w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/el_TOQUE_portada_ce92a22b2b.jpg/width=750,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 750w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/el_TOQUE_portada_ce92a22b2b.jpg/width=828,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 828w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/el_TOQUE_portada_ce92a22b2b.jpg/width=1080,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 1080w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/el_TOQUE_portada_ce92a22b2b.jpg/width=1200,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 1200w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/el_TOQUE_portada_ce92a22b2b.jpg/width=1920,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 1920w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/el_TOQUE_portada_ce92a22b2b.jpg/width=2048,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 2048w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/el_TOQUE_portada_ce92a22b2b.jpg/width=3840,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 3840w\" src=\"https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/el_TOQUE_portada_ce92a22b2b.jpg/width=3840,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40\"\u003e\u003c/div\u003e\u003ch3\u003ePara qué sirve la tasa de elTOQUE\u003c/h3\u003e\u003cspan\u003e¿Cómo se usa la tasa representativa del mercado informal de divisas de elTOQUE? 302 respuestas de usuarios recurrentes hicieron posible identificar cinco tendencias de uso. El siguiente texto amplía al respecto.\u003cbr\u003e\u003c/span\u003e\u003c/a\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son los términos y condiciones de uso de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eExisten varios puntos que no deben incumplirse, tanto para solicitar acceder a los datos que se brindan a través de la API como mientras se esté haciendo uso de la misma:\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"adsense-backend\" data-pos=\"2\" data-client=\"ca-pub-9665834629580390\" data-slot=\"6478851354\"\u003e\u003c/div\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSe debe referenciar a \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e como fuente de los datos obtenidos a través de la API. Si se hace uso de la API y se brindan los datos como si fueran de la persona y no de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, el usuario puede ser baneado del uso de nuestra API.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo puede proporcionarse la API a terceros ni para venderla ni para prestarla.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e no se hace responsable del uso que se haga con los datos que obtenga el usuario a través de esta API.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo se puede utilizar la API en relación a cualquier producto o servicio material que constituya promociones \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003epayware\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003ehardware\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e o código malicioso; ni materiales de odio o que entren en actividades de terrorismo, violencia, contenido obsceno, sexualmente explícito y engañoso, fraudulento, ofensivo o discriminatorio por cualquier motivo incluyendo raza, discapacidad, etcétera.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo debe modificar los datos proporcionados por la API; de lo contrario, puede ser objeto de bloqueo de su uso.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"API tasas de elTOQUE - Términos y condiciones de uso \" slug=\"api-tasas-de-eltoque-terminos-y-condiciones-de-uso\" image=\"/uploads/tasa_de_eltoque_ok_3_23c8d2acd0.jpg\" excerpt=\"Estos Términos y condiciones de uso están diseñados para contribuir la  utilización de la API Tasas de elTOQUE, en lo adelante “API Tasas”, de manera consistente con los intereses de elTOQUE.\" comments=\"0\" \u003e\u003ca href=\"/api-tasas-de-eltoque-terminos-y-condiciones-de-uso\"\u003e\u003cdiv class=\"w-full h-[auto] relative mb-2\" style=\"aspect-ratio:7/2\"\u003e\u003cimg alt=\"\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;color:transparent;z-index:-1\" sizes=\"80vw\" srcSet=\"https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/tasa_de_eltoque_ok_3_23c8d2acd0.jpg/width=384,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 384w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/tasa_de_eltoque_ok_3_23c8d2acd0.jpg/width=420,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 420w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/tasa_de_eltoque_ok_3_23c8d2acd0.jpg/width=640,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 640w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/tasa_de_eltoque_ok_3_23c8d2acd0.jpg/width=750,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 750w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/tasa_de_eltoque_ok_3_23c8d2acd0.jpg/width=828,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 828w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/tasa_de_eltoque_ok_3_23c8d2acd0.jpg/width=1080,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 1080w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/tasa_de_eltoque_ok_3_23c8d2acd0.jpg/width=1200,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 1200w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/tasa_de_eltoque_ok_3_23c8d2acd0.jpg/width=1920,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 1920w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/tasa_de_eltoque_ok_3_23c8d2acd0.jpg/width=2048,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 2048w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/tasa_de_eltoque_ok_3_23c8d2acd0.jpg/width=3840,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 3840w\" src=\"https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/tasa_de_eltoque_ok_3_23c8d2acd0.jpg/width=3840,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40\"\u003e\u003c/div\u003e\u003ch3\u003eAPI tasas de elTOQUE - Términos y condiciones de uso \u003c/h3\u003e\u003cspan\u003eEstos Términos y condiciones de uso están diseñados para contribuir la  utilización de la API Tasas de elTOQUE, en lo adelante “API Tasas”, de manera consistente con los intereses de elTOQUE.\u003c/span\u003e\u003c/a\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cómo puede accederse a la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ePara usar la API, lo primero que debe hacer el usuario es registrarse a través de un formulario. Entre las informaciones que debe llenarse se encuentran el correo electrónico y el tipo de uso que se va a hacer de la API. Este segundo punto es el más importante y ha sido motivo de rechazo entre algunas personas que han llenado la solicitud, debido a la falta de claridad en el uso que se hará de la API. El uso no tiene que ser expresamente como una herramienta pública, puede utilizarse la API para beneficio propio, pero sí tiene que dejarse claro y ser entendible.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"adsense-backend\" data-pos=\"3\" data-client=\"ca-pub-9665834629580390\" data-slot=\"6478851354\"\u003e\u003c/div\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUna vez que el usuario envíe el formulario, en dos o tres días —como máximo— se revisa la solicitud y se genera un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003etoken \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ede autorización para poder utilizar la API. Si el usuario no tiene el \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003etoken\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, está usándolo de manera incorrecta, o si en el uso que le iba a dar puso un origen y empezó a usarlo desde otro, puede verse imposibilitado de hacer uso de nuestra herramienta.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eAlgunas solicitudes refieren que el uso de la API es para consultar la tasa del mercado informal de divisas, pero para ello puede accederse directamente al sitio de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e y/o a sus redes sociales, donde se publica la información diariamente. La API está más enfocada a los desarrolladores, a los sistemas, aplicaciones y herramientas; puede ser incluso un documento de Excel personal, con el cual el usuario busca nutrirse de los datos en tiempo real. En ese caso, por ejemplo, puede ser una explicación válida.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las funciones que brinda la API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eLa API ofrece la Tasa Representativa del Mercado informal en las últimas 24 horas. Al hacer uso de la API, el usuario obtendrá las ofertas desde el momento de la solicitud hasta 24 horas atrás, así como las medianas en tiempo real de los valores de compra y venta de esas ofertas en euro, MLC, USD, bitcoin, usdt y TRX.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"adsense-backend\" data-pos=\"4\" data-client=\"ca-pub-9665834629580390\" data-slot=\"6478851354\"\u003e\u003c/div\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSi usted necesita acceder a otra fecha o rango de tiempo, puede enviar la fecha de inicio y fin del rango de tiempo en que quiere obtener la tasa. La API va a devolver un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eJason\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, que es el formato que utiliza para la respuesta, donde se mostrarán las medianas de las ofertas de compraventa en ese rango de tiempo.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las limitaciones y restricciones de la API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSe puede consultar cualquier día, pero el rango de tiempo no puede ser de más de 24 horas. Por otro lado, la API tiene un límite máximo de dos peticiones por minuto y dentro de un mes cuenta con hasta cinco mil peticiones. \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e prevé en un futuro incluir nuevas funcionalidades para los desarrolladores en una opción Premium, pero la versión actual gratuita seguirá contando con estas restricciones.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"Nuevas prestaciones de las tasas de cambio de elTOQUE\" slug=\"nuevas-prestaciones-de-las-tasas-de-cambio-de-eltoque\" image=\"/uploads/Portada_tasa_bbe95aca11.jpg\" excerpt=\"A partir de hoy es posible consultar en un mismo lugar las tasas representativas del mercado informal de divisas y de criptomonedas en Cuba. \" comments=\"0\" \u003e\u003ca href=\"/nuevas-prestaciones-de-las-tasas-de-cambio-de-eltoque\"\u003e\u003cdiv class=\"w-full h-[auto] relative mb-2\" style=\"aspect-ratio:7/2\"\u003e\u003cimg alt=\"\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fill\" style=\"position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;color:transparent;z-index:-1\" sizes=\"80vw\" srcSet=\"https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Portada_tasa_bbe95aca11.jpg/width=384,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 384w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Portada_tasa_bbe95aca11.jpg/width=420,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 420w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Portada_tasa_bbe95aca11.jpg/width=640,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 640w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Portada_tasa_bbe95aca11.jpg/width=750,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 750w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Portada_tasa_bbe95aca11.jpg/width=828,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 828w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Portada_tasa_bbe95aca11.jpg/width=1080,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 1080w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Portada_tasa_bbe95aca11.jpg/width=1200,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 1200w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Portada_tasa_bbe95aca11.jpg/width=1920,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 1920w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Portada_tasa_bbe95aca11.jpg/width=2048,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 2048w, https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Portada_tasa_bbe95aca11.jpg/width=3840,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40 3840w\" src=\"https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Portada_tasa_bbe95aca11.jpg/width=3840,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40\"\u003e\u003c/div\u003e\u003ch3\u003eNuevas prestaciones de las tasas de cambio de elTOQUE\u003c/h3\u003e\u003cspan\u003eA partir de hoy es posible consultar en un mismo lugar las tasas representativas del mercado informal de divisas y de criptomonedas en Cuba. \u003c/span\u003e\u003c/a\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Qué usos recomienda \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e darle a su API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUsted puede tener, por ejemplo, un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eExcel \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003epara calcular los gastos e ingresos de sus finanzas personales. Si lo tiene en pesos cubanos, pero quiere ver cómo se reflejó en dólares en el mercado informal o viceversa, puede valerse de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e; o simplemente para mostrarlo en su sitio web, en su aplicación, en su blog o en su WhatsApp.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"adsense-backend\" data-pos=\"5\" data-client=\"ca-pub-9665834629580390\" data-slot=\"6478851354\"\u003e\u003c/div\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eTambién puede utilizarla para aplicaciones móviles, ya sea de Android o de iOS, en las que usted haga algún tipo de gestión financiera. Por ejemplo, un sistema de remesas: hay muchos usuarios que hacen remesas y necesitan consultar continuamente la tasa de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e. Además, puede usarse en \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003echatbots \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ede Telegram y/o WhatsApp, donde se le pregunte y proporcione la información de la tasa.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUno de los usos por los que se apuesta es para las tiendas online. Por ejemplo, si la tienda online vende en pesos cubanos, pero sus gastos son en dólares y necesita saber en cuánto va a vender sus productos, puede utilizar la API para reflejar esos precios dentro de la tienda. Otro uso potencial puede darse en los gastos del envío de paqueterías a Cuba, si se hace en dólares y se quiere ver el equivalente en pesos cubanos.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las perspectivas de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn un futuro se pretende abrir aún más la API y colocar el histórico en grandes rangos de tiempo para presentar gráficas o información más específica sobre los valores de compra y venta, es decir, la mediana de la compra y de la venta, las distancias que hay, etcétera. También se pretende incorporar otras monedas como por ejemplo, el franco suizo, el rublo, e incluso las tasas de los usuarios recurrentes.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"adsense-backend\" data-pos=\"6\" data-client=\"ca-pub-9665834629580390\" data-slot=\"6478851354\"\u003e\u003c/div\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn \u003c/span\u003e\u003ca href=\"https://twitter.com/i/spaces/1mnxeRPeqdbKX\" rel=\"noopener noreferrer\" target=\"_blank\"\u003eeste enlace\u003c/a\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e puede escuchar el space de Twitter relacionado con el tema.\u003c/span\u003e\u003c/p\u003e",
+        "excerpt": "Tras dar acceso al API de la Tasa Representativa del Mercado Informal, elTOQUE realizó un space de Twitter donde se respondieron dudas de los usuarios. Aquí les dejamos algunas preguntas y respuestas. ",
+        "publish_date": "2022-12-28T11:30:00.000Z",
+        "keyword": "",
+        "feature_image_caption": "",
+        "feature_image_alt": "",
+        "show_ads": true,
+        "no_index": false,
+        "postOpen": true,
+        "no_page_ads": false,
+        "desinformacion": "no",
+        "feature_image": {
+          "alternativeText": "",
+          "caption": "",
+          "url": "/uploads/API_el_Toque_b6ff143c48.jpg",
+          "width": 1218,
+          "height": 714
+        },
+        "translation": null,
+        "social_image": null,
+        "tags": [
+          {
+            "title": "tasa de cambio",
+            "slug": "tasa de cambio"
+          },
+          {
+            "title": "economía",
+            "slug": "economia"
+          },
+          {
+            "title": "criptomonedas en Cuba",
+            "slug": "criptomonedas-en-cuba"
+          }
+        ],
+        "categories": [
+          {
+            "title": "Sociedad",
+            "slug": "sociedad"
+          }
+        ],
+        "authors": [
+          {
+            "fullName": "elTOQUE",
+            "username": "sumavoces",
+            "description": "Contamos las historias de jóvenes como tú que se sienten protagonistas de esta Cuba que cambia; aquellos que transforman los barrios, que emprenden, dialogan y construyen iniciativas ciudadanas para su gente. Te mostramos cómo otros jóvenes superaron las barreras y hoy impulsan un proyecto propio."
+          }
+        ],
+        "comments": [
+          {
+            "blocked": false,
+            "blockedThread": false,
+            "points": 0,
+            "deleted": false,
+            "_id": "63ada12aed8925001c361eaf",
+            "content": "Sigo el toque por la tasa informal y el periodismo es bastante serio sin ir a los extremos ",
+            "authorId": "be730c-b5c7-8fa3-6c0-ec0b2fc05f0",
+            "authorName": "Ken Fong ",
+            "authorEmail": "kenfongsafong@gmail.com",
+            "created_at": "2022-12-29T14:16:10.123Z",
+            "__v": 0,
+            "reports": [
+            ],
+            "comments_ratings": [
+            ],
+            "id": "63ada12aed8925001c361eaf",
+            "children": [
+            ]
+          },
+          {
+            "blocked": false,
+            "blockedThread": false,
+            "points": 0,
+            "deleted": false,
+            "_id": "63af6167ed8925001c3626cc",
+            "content": "Y por que no hacen publico el codigo con el que \"calculan\" la tasa de cambio?",
+            "authorId": "51d844-7202-2f62-2bd5-af2545f3417b",
+            "authorName": "Mario",
+            "authorEmail": "mario44322@gmail.com",
+            "created_at": "2022-12-30T22:08:39.196Z",
+            "__v": 0,
+            "reports": [
+            ],
+            "comments_ratings": [
+            ],
+            "id": "63af6167ed8925001c3626cc",
+            "children": [
+            ]
+          },
+          {
+            "blocked": false,
+            "blockedThread": false,
+            "points": 0,
+            "deleted": false,
+            "_id": "63be6410ed8925001c3685f5",
+            "content": "Uso para conocimiento de tasas de cambio mercado informal ",
+            "authorId": "aeca825-627b-0686-af74-2da4545bb5af",
+            "authorName": "Ana dolz ",
+            "authorEmail": "ananazario9512@gmail.com",
+            "created_at": "2023-01-11T07:24:00.388Z",
+            "__v": 0,
+            "reports": [
+            ],
+            "comments_ratings": [
+            ],
+            "id": "63be6410ed8925001c3685f5",
+            "children": [
+            ]
+          }
+        ],
+        "comments_flat": [
+          {
+            "blocked": false,
+            "blockedThread": false,
+            "points": 0,
+            "deleted": false,
+            "_id": "63ada12aed8925001c361eaf",
+            "content": "Sigo el toque por la tasa informal y el periodismo es bastante serio sin ir a los extremos ",
+            "authorId": "be730c-b5c7-8fa3-6c0-ec0b2fc05f0",
+            "authorName": "Ken Fong ",
+            "authorEmail": "kenfongsafong@gmail.com",
+            "created_at": "2022-12-29T14:16:10.123Z",
+            "related": [
+              {
+                "__contentType": "Post",
+                "postOpen": true,
+                "sticky": true,
+                "noHome": false,
+                "publish_cron": false,
+                "facebook_crawl": false,
+                "show_ads": true,
+                "no_index": false,
+                "no_page_ads": false,
+                "desinformacion": "no",
+                "firebase_was_notified": false,
+                "was_published": false,
+                "full_embed": false,
+                "authors": [
+                  "600c4765929b80000d284573"
+                ],
+                "tags": [
+                  "629a09aee3ec48001ddb3356",
+                  "600c46bb929b80000d28449a",
+                  "61e0e6df9c1c17001e5eb538"
+                ],
+                "categories": [
+                  "600c46c2929b80000d284512"
+                ],
+                "comments": [
+                  {
+                    "blocked": false,
+                    "blockedThread": false,
+                    "points": 0,
+                    "deleted": false,
+                    "_id": "63ada12aed8925001c361eaf",
+                    "content": "Sigo el toque por la tasa informal y el periodismo es bastante serio sin ir a los extremos ",
+                    "authorId": "be730c-b5c7-8fa3-6c0-ec0b2fc05f0",
+                    "authorName": "Ken Fong ",
+                    "authorEmail": "kenfongsafong@gmail.com",
+                    "created_at": "2022-12-29T14:16:10.123Z",
+                    "related": [
+                      "63a498dbed8925001c35f865"
+                    ],
+                    "__v": 0,
+                    "threadOf": null,
+                    "id": "63ada12aed8925001c361eaf"
+                  },
+                  {
+                    "blocked": false,
+                    "blockedThread": false,
+                    "points": 0,
+                    "deleted": false,
+                    "_id": "63af6167ed8925001c3626cc",
+                    "content": "Y por que no hacen publico el codigo con el que \"calculan\" la tasa de cambio?",
+                    "authorId": "51d844-7202-2f62-2bd5-af2545f3417b",
+                    "authorName": "Mario",
+                    "authorEmail": "mario44322@gmail.com",
+                    "created_at": "2022-12-30T22:08:39.196Z",
+                    "related": [
+                      "63a498dbed8925001c35f865"
+                    ],
+                    "__v": 0,
+                    "threadOf": null,
+                    "id": "63af6167ed8925001c3626cc"
+                  },
+                  {
+                    "blocked": false,
+                    "blockedThread": false,
+                    "points": 0,
+                    "deleted": false,
+                    "_id": "63be6410ed8925001c3685f5",
+                    "content": "Uso para conocimiento de tasas de cambio mercado informal ",
+                    "authorId": "aeca825-627b-0686-af74-2da4545bb5af",
+                    "authorName": "Ana dolz ",
+                    "authorEmail": "ananazario9512@gmail.com",
+                    "created_at": "2023-01-11T07:24:00.388Z",
+                    "related": [
+                      "63a498dbed8925001c35f865"
+                    ],
+                    "__v": 0,
+                    "threadOf": null,
+                    "id": "63be6410ed8925001c3685f5"
+                  }
+                ],
+                "_id": "63a498dbed8925001c35f865",
+                "page_title": "",
+                "title": "Preguntas y respuestas sobre la API de elTOQUE",
+                "slug": "preguntas-y-respuestas-sobre-la-api-de-eltoque",
+                "body": "\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eLa \u003c/span\u003e\u003ca href=\"https://eltoque.com/tasas-de-cambio-de-moneda-en-cuba-hoy\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\"\u003etasa representativa del mercado informal de divisas en Cuba (TRMI)\u003c/a\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e confeccionada por \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e\u0026nbsp;ha sido uno de los servicios más populares entre la audiencia de nuestra plataforma.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eVarios desarrolladores han solicitado que diéramos acceso a otros datos de la TRMI. Algunos han empleado métodos como el \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003escraping\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, una técnica utilizada mediante programas de software para extraer información de sitios web que podría afectar el desempeño del sitio, si se hace de forma incorrecta.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ePara facilitar un acceso seguro y estandarizado, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e presentó recientemente la interfaz de programación de aplicaciones o API de la TRMI, pero aún persisten muchas dudas entre los usuarios en cuanto a su uso, la forma de acceder a la misma y las funcionalidades que brinda.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Es la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e una apk?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo, no es una apk todavía. Se trata de una API, especificación que determina cuáles son las características que necesita el usuario para interactuar con nuestro sistema. Lo que brinda \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e es la tasa representativa del mercado informal de divisas, además de algunas de las tasas de las criptomonedas con las divisas.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn el caso de las criptomonedas, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e sí cuenta con valores de referencia de personas que realmente hicieron transacciones, es decir, a través de plataformas \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eexchange\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e donde se publica la oferta y la transacción que se ejecuta sí es real. En este sentido, los valores de las criptomonedas son más exactos que las ofertas de las divisas, puesto que estas últimas son únicamente referenciales, al tratarse de ofertas que las personas publican en las redes sociales.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"Para qué sirve la tasa de elTOQUE\" slug=\"para-que-sirve-la-tasa-de-eltoque\" image=\"/uploads/el_TOQUE_portada_ce92a22b2b.jpg\" excerpt=\"¿Cómo se usa la tasa representativa del mercado informal de divisas de elTOQUE? 302 respuestas de usuarios recurrentes hicieron posible identificar cinco tendencias de uso. El siguiente texto amplía al respecto.\n\" comments=\"14\" contenteditable=\"false\"\u003e\u003ca href=\"para-que-sirve-la-tasa-de-eltoque\"\u003e\u003cdiv style=\"background: url(\u0026quot;/uploads/el_TOQUE_portada_ce92a22b2b.jpg\u0026quot;) center center / cover no-repeat; height: 200px;\"\u003e\u003c/div\u003e\u003ch3\u003ePara qué sirve la tasa de elTOQUE\u003c/h3\u003e\u003cp\u003e¿Cómo se usa la tasa representativa del mercado informal de divisas de elTOQUE? 302 respuestas de usuarios recurrentes hicieron posible identificar cinco tendencias de uso. El siguiente texto amplía al respecto.\u003cbr\u003e\u003c/p\u003e\u003c/a\u003e\u003cspan style=\"font-size: 16px; color: rgb(177, 177, 177); position: absolute; right: 82px; bottom: 15px;\"\u003e\u003ci class=\"fas fa-comment-alt\"\u003e\u003c/i\u003e\u003cspan style=\"margin-left: 5px;\"\u003e14\u003c/span\u003e\u003cbutton\u003e\u003ci class=\"fas fa-share-alt\" style=\"margin-left: 25px; cursor: pointer;\"\u003e\u003c/i\u003e\u003c/button\u003e\u003c/span\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son los términos y condiciones de uso de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eExisten varios puntos que no deben incumplirse, tanto para solicitar acceder a los datos que se brindan a través de la API como mientras se esté haciendo uso de la misma:\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSe debe referenciar a \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e como fuente de los datos obtenidos a través de la API. Si se hace uso de la API y se brindan los datos como si fueran de la persona y no de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, el usuario puede ser baneado del uso de nuestra API.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo puede proporcionarse la API a terceros ni para venderla ni para prestarla.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e no se hace responsable del uso que se haga con los datos que obtenga el usuario a través de esta API.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo se puede utilizar la API en relación a cualquier producto o servicio material que constituya promociones \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003epayware\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003ehardware\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e o código malicioso; ni materiales de odio o que entren en actividades de terrorismo, violencia, contenido obsceno, sexualmente explícito y engañoso, fraudulento, ofensivo o discriminatorio por cualquier motivo incluyendo raza, discapacidad, etcétera.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo debe modificar los datos proporcionados por la API; de lo contrario, puede ser objeto de bloqueo de su uso.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"API tasas de elTOQUE - Términos y condiciones de uso \" slug=\"api-tasas-de-eltoque-terminos-y-condiciones-de-uso\" image=\"/uploads/tasa_de_eltoque_ok_3_23c8d2acd0.jpg\" excerpt=\"Estos Términos y condiciones de uso están diseñados para contribuir la  utilización de la API Tasas de elTOQUE, en lo adelante “API Tasas”, de manera consistente con los intereses de elTOQUE.\" comments=\"0\" contenteditable=\"false\"\u003e\u003ca href=\"api-tasas-de-eltoque-terminos-y-condiciones-de-uso\"\u003e\u003cdiv style=\"background: url(\u0026quot;/uploads/tasa_de_eltoque_ok_3_23c8d2acd0.jpg\u0026quot;) center center / cover no-repeat; height: 200px;\"\u003e\u003c/div\u003e\u003ch3\u003eAPI tasas de elTOQUE - Términos y condiciones de uso \u003c/h3\u003e\u003cp\u003eEstos Términos y condiciones de uso están diseñados para contribuir la  utilización de la API Tasas de elTOQUE, en lo adelante “API Tasas”, de manera consistente con los intereses de elTOQUE.\u003c/p\u003e\u003c/a\u003e\u003cspan style=\"font-size: 16px; color: rgb(177, 177, 177); position: absolute; right: 82px; bottom: 15px;\"\u003e\u003ci class=\"fas fa-comment-alt\"\u003e\u003c/i\u003e\u003cspan style=\"margin-left: 5px;\"\u003e0\u003c/span\u003e\u003cbutton\u003e\u003ci class=\"fas fa-share-alt\" style=\"margin-left: 25px; cursor: pointer;\"\u003e\u003c/i\u003e\u003c/button\u003e\u003c/span\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cómo puede accederse a la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ePara usar la API, lo primero que debe hacer el usuario es registrarse a través de un formulario. Entre las informaciones que debe llenarse se encuentran el correo electrónico y el tipo de uso que se va a hacer de la API. Este segundo punto es el más importante y ha sido motivo de rechazo entre algunas personas que han llenado la solicitud, debido a la falta de claridad en el uso que se hará de la API. El uso no tiene que ser expresamente como una herramienta pública, puede utilizarse la API para beneficio propio, pero sí tiene que dejarse claro y ser entendible.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUna vez que el usuario envíe el formulario, en dos o tres días —como máximo— se revisa la solicitud y se genera un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003etoken \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ede autorización para poder utilizar la API. Si el usuario no tiene el \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003etoken\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, está usándolo de manera incorrecta, o si en el uso que le iba a dar puso un origen y empezó a usarlo desde otro, puede verse imposibilitado de hacer uso de nuestra herramienta.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eAlgunas solicitudes refieren que el uso de la API es para consultar la tasa del mercado informal de divisas, pero para ello puede accederse directamente al sitio de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e y/o a sus redes sociales, donde se publica la información diariamente. La API está más enfocada a los desarrolladores, a los sistemas, aplicaciones y herramientas; puede ser incluso un documento de Excel personal, con el cual el usuario busca nutrirse de los datos en tiempo real. En ese caso, por ejemplo, puede ser una explicación válida.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las funciones que brinda la API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eLa API ofrece la Tasa Representativa del Mercado informal en las últimas 24 horas. Al hacer uso de la API, el usuario obtendrá las ofertas desde el momento de la solicitud hasta 24 horas atrás, así como las medianas en tiempo real de los valores de compra y venta de esas ofertas en euro, MLC, USD, bitcoin, usdt y TRX.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSi usted necesita acceder a otra fecha o rango de tiempo, puede enviar la fecha de inicio y fin del rango de tiempo en que quiere obtener la tasa. La API va a devolver un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eJason\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, que es el formato que utiliza para la respuesta, donde se mostrarán las medianas de las ofertas de compraventa en ese rango de tiempo.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las limitaciones y restricciones de la API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSe puede consultar cualquier día, pero el rango de tiempo no puede ser de más de 24 horas. Por otro lado, la API tiene un límite máximo de dos peticiones por minuto y dentro de un mes cuenta con hasta cinco mil peticiones. \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e prevé en un futuro incluir nuevas funcionalidades para los desarrolladores en una opción Premium, pero la versión actual gratuita seguirá contando con estas restricciones.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"Nuevas prestaciones de las tasas de cambio de elTOQUE\" slug=\"nuevas-prestaciones-de-las-tasas-de-cambio-de-eltoque\" image=\"/uploads/Portada_tasa_bbe95aca11.jpg\" excerpt=\"A partir de hoy es posible consultar en un mismo lugar las tasas representativas del mercado informal de divisas y de criptomonedas en Cuba. \" comments=\"0\" contenteditable=\"false\"\u003e\u003ca href=\"nuevas-prestaciones-de-las-tasas-de-cambio-de-eltoque\"\u003e\u003cdiv style=\"background: url(\u0026quot;/uploads/Portada_tasa_bbe95aca11.jpg\u0026quot;) center center / cover no-repeat; height: 200px;\"\u003e\u003c/div\u003e\u003ch3\u003eNuevas prestaciones de las tasas de cambio de elTOQUE\u003c/h3\u003e\u003cp\u003eA partir de hoy es posible consultar en un mismo lugar las tasas representativas del mercado informal de divisas y de criptomonedas en Cuba. \u003c/p\u003e\u003c/a\u003e\u003cspan style=\"font-size: 16px; color: rgb(177, 177, 177); position: absolute; right: 82px; bottom: 15px;\"\u003e\u003ci class=\"fas fa-comment-alt\"\u003e\u003c/i\u003e\u003cspan style=\"margin-left: 5px;\"\u003e0\u003c/span\u003e\u003cbutton\u003e\u003ci class=\"fas fa-share-alt\" style=\"margin-left: 25px; cursor: pointer;\"\u003e\u003c/i\u003e\u003c/button\u003e\u003c/span\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Qué usos recomienda \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e darle a su API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUsted puede tener, por ejemplo, un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eExcel \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003epara calcular los gastos e ingresos de sus finanzas personales. Si lo tiene en pesos cubanos, pero quiere ver cómo se reflejó en dólares en el mercado informal o viceversa, puede valerse de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e; o simplemente para mostrarlo en su sitio web, en su aplicación, en su blog o en su WhatsApp.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eTambién puede utilizarla para aplicaciones móviles, ya sea de Android o de iOS, en las que usted haga algún tipo de gestión financiera. Por ejemplo, un sistema de remesas: hay muchos usuarios que hacen remesas y necesitan consultar continuamente la tasa de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e. Además, puede usarse en \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003echatbots \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ede Telegram y/o WhatsApp, donde se le pregunte y proporcione la información de la tasa.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUno de los usos por los que se apuesta es para las tiendas online. Por ejemplo, si la tienda online vende en pesos cubanos, pero sus gastos son en dólares y necesita saber en cuánto va a vender sus productos, puede utilizar la API para reflejar esos precios dentro de la tienda. Otro uso potencial puede darse en los gastos del envío de paqueterías a Cuba, si se hace en dólares y se quiere ver el equivalente en pesos cubanos.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las perspectivas de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn un futuro se pretende abrir aún más la API y colocar el histórico en grandes rangos de tiempo para presentar gráficas o información más específica sobre los valores de compra y venta, es decir, la mediana de la compra y de la venta, las distancias que hay, etcétera. También se pretende incorporar otras monedas como por ejemplo, el franco suizo, el rublo, e incluso las tasas de los usuarios recurrentes.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn \u003c/span\u003e\u003ca href=\"https://twitter.com/i/spaces/1mnxeRPeqdbKX\" rel=\"noopener noreferrer\" target=\"_blank\"\u003eeste enlace\u003c/a\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e puede escuchar el space de Twitter relacionado con el tema.\u003c/span\u003e\u003c/p\u003e",
+                "excerpt": "Tras dar acceso al API de la Tasa Representativa del Mercado Informal, elTOQUE realizó un space de Twitter donde se respondieron dudas de los usuarios. Aquí les dejamos algunas preguntas y respuestas. ",
+                "publish_date": "2022-12-28T11:30:00.000Z",
+                "keyword": "",
+                "publish_at": "2022-12-28T11:30:00.000Z",
+                "oldSlugs": "",
+                "published_at": "2022-12-28T11:31:00.000Z",
+                "original_date": "2022-12-22T17:50:19.870Z",
+                "createdAt": "2022-12-22T17:50:19.876Z",
+                "updatedAt": "2023-01-11T16:26:00.935Z",
+                "__v": 0,
+                "feature_image": {
+                  "_id": "63bee314ed8925001c368938",
+                  "name": "API elToque.jpg",
+                  "alternativeText": "",
+                  "caption": "",
+                  "hash": "API_el_Toque_b6ff143c48",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 92.25,
+                  "width": 1218,
+                  "height": 714,
+                  "url": "/uploads/API_el_Toque_b6ff143c48.jpg",
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_API elToque.jpg",
+                      "hash": "thumbnail_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 245,
+                      "height": 144,
+                      "size": 5.51,
+                      "path": null,
+                      "url": "/uploads/thumbnail_API_el_Toque_b6ff143c48.jpg"
+                    },
+                    "large": {
+                      "name": "large_API elToque.jpg",
+                      "hash": "large_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 1000,
+                      "height": 586,
+                      "size": 66.33,
+                      "path": null,
+                      "url": "/uploads/large_API_el_Toque_b6ff143c48.jpg"
+                    },
+                    "medium": {
+                      "name": "medium_API elToque.jpg",
+                      "hash": "medium_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 750,
+                      "height": 440,
+                      "size": 40.11,
+                      "path": null,
+                      "url": "/uploads/medium_API_el_Toque_b6ff143c48.jpg"
+                    },
+                    "small": {
+                      "name": "small_API elToque.jpg",
+                      "hash": "small_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 500,
+                      "height": 293,
+                      "size": 19.03,
+                      "path": null,
+                      "url": "/uploads/small_API_el_Toque_b6ff143c48.jpg"
+                    }
+                  },
+                  "provider": "local",
+                  "related": [
+                    "63a498dbed8925001c35f865"
+                  ],
+                  "createdAt": "2023-01-11T16:25:56.335Z",
+                  "updatedAt": "2023-01-11T16:26:00.883Z",
+                  "__v": 0,
+                  "id": "63bee314ed8925001c368938"
+                },
+                "language": "5fc66bd13bb648000db118bb",
+                "microsite": null,
+                "translation": null,
+                "feature_image_alt": "",
+                "feature_image_caption": "",
+                "id": "63a498dbed8925001c35f865"
+              }
+            ],
+            "__v": 0,
+            "threadOf": null,
+            "reports": [
+            ],
+            "comments_ratings": [
+            ],
+            "id": "63ada12aed8925001c361eaf"
+          },
+          {
+            "blocked": false,
+            "blockedThread": false,
+            "points": 0,
+            "deleted": false,
+            "_id": "63af6167ed8925001c3626cc",
+            "content": "Y por que no hacen publico el codigo con el que \"calculan\" la tasa de cambio?",
+            "authorId": "51d844-7202-2f62-2bd5-af2545f3417b",
+            "authorName": "Mario",
+            "authorEmail": "mario44322@gmail.com",
+            "created_at": "2022-12-30T22:08:39.196Z",
+            "related": [
+              {
+                "__contentType": "Post",
+                "postOpen": true,
+                "sticky": true,
+                "noHome": false,
+                "publish_cron": false,
+                "facebook_crawl": false,
+                "show_ads": true,
+                "no_index": false,
+                "no_page_ads": false,
+                "desinformacion": "no",
+                "firebase_was_notified": false,
+                "was_published": false,
+                "full_embed": false,
+                "authors": [
+                  "600c4765929b80000d284573"
+                ],
+                "tags": [
+                  "629a09aee3ec48001ddb3356",
+                  "600c46bb929b80000d28449a",
+                  "61e0e6df9c1c17001e5eb538"
+                ],
+                "categories": [
+                  "600c46c2929b80000d284512"
+                ],
+                "comments": [
+                  {
+                    "blocked": false,
+                    "blockedThread": false,
+                    "points": 0,
+                    "deleted": false,
+                    "_id": "63ada12aed8925001c361eaf",
+                    "content": "Sigo el toque por la tasa informal y el periodismo es bastante serio sin ir a los extremos ",
+                    "authorId": "be730c-b5c7-8fa3-6c0-ec0b2fc05f0",
+                    "authorName": "Ken Fong ",
+                    "authorEmail": "kenfongsafong@gmail.com",
+                    "created_at": "2022-12-29T14:16:10.123Z",
+                    "related": [
+                      "63a498dbed8925001c35f865"
+                    ],
+                    "__v": 0,
+                    "threadOf": null,
+                    "id": "63ada12aed8925001c361eaf"
+                  },
+                  {
+                    "blocked": false,
+                    "blockedThread": false,
+                    "points": 0,
+                    "deleted": false,
+                    "_id": "63af6167ed8925001c3626cc",
+                    "content": "Y por que no hacen publico el codigo con el que \"calculan\" la tasa de cambio?",
+                    "authorId": "51d844-7202-2f62-2bd5-af2545f3417b",
+                    "authorName": "Mario",
+                    "authorEmail": "mario44322@gmail.com",
+                    "created_at": "2022-12-30T22:08:39.196Z",
+                    "related": [
+                      "63a498dbed8925001c35f865"
+                    ],
+                    "__v": 0,
+                    "threadOf": null,
+                    "id": "63af6167ed8925001c3626cc"
+                  },
+                  {
+                    "blocked": false,
+                    "blockedThread": false,
+                    "points": 0,
+                    "deleted": false,
+                    "_id": "63be6410ed8925001c3685f5",
+                    "content": "Uso para conocimiento de tasas de cambio mercado informal ",
+                    "authorId": "aeca825-627b-0686-af74-2da4545bb5af",
+                    "authorName": "Ana dolz ",
+                    "authorEmail": "ananazario9512@gmail.com",
+                    "created_at": "2023-01-11T07:24:00.388Z",
+                    "related": [
+                      "63a498dbed8925001c35f865"
+                    ],
+                    "__v": 0,
+                    "threadOf": null,
+                    "id": "63be6410ed8925001c3685f5"
+                  }
+                ],
+                "_id": "63a498dbed8925001c35f865",
+                "page_title": "",
+                "title": "Preguntas y respuestas sobre la API de elTOQUE",
+                "slug": "preguntas-y-respuestas-sobre-la-api-de-eltoque",
+                "body": "\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eLa \u003c/span\u003e\u003ca href=\"https://eltoque.com/tasas-de-cambio-de-moneda-en-cuba-hoy\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\"\u003etasa representativa del mercado informal de divisas en Cuba (TRMI)\u003c/a\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e confeccionada por \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e\u0026nbsp;ha sido uno de los servicios más populares entre la audiencia de nuestra plataforma.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eVarios desarrolladores han solicitado que diéramos acceso a otros datos de la TRMI. Algunos han empleado métodos como el \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003escraping\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, una técnica utilizada mediante programas de software para extraer información de sitios web que podría afectar el desempeño del sitio, si se hace de forma incorrecta.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ePara facilitar un acceso seguro y estandarizado, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e presentó recientemente la interfaz de programación de aplicaciones o API de la TRMI, pero aún persisten muchas dudas entre los usuarios en cuanto a su uso, la forma de acceder a la misma y las funcionalidades que brinda.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Es la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e una apk?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo, no es una apk todavía. Se trata de una API, especificación que determina cuáles son las características que necesita el usuario para interactuar con nuestro sistema. Lo que brinda \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e es la tasa representativa del mercado informal de divisas, además de algunas de las tasas de las criptomonedas con las divisas.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn el caso de las criptomonedas, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e sí cuenta con valores de referencia de personas que realmente hicieron transacciones, es decir, a través de plataformas \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eexchange\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e donde se publica la oferta y la transacción que se ejecuta sí es real. En este sentido, los valores de las criptomonedas son más exactos que las ofertas de las divisas, puesto que estas últimas son únicamente referenciales, al tratarse de ofertas que las personas publican en las redes sociales.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"Para qué sirve la tasa de elTOQUE\" slug=\"para-que-sirve-la-tasa-de-eltoque\" image=\"/uploads/el_TOQUE_portada_ce92a22b2b.jpg\" excerpt=\"¿Cómo se usa la tasa representativa del mercado informal de divisas de elTOQUE? 302 respuestas de usuarios recurrentes hicieron posible identificar cinco tendencias de uso. El siguiente texto amplía al respecto.\n\" comments=\"14\" contenteditable=\"false\"\u003e\u003ca href=\"para-que-sirve-la-tasa-de-eltoque\"\u003e\u003cdiv style=\"background: url(\u0026quot;/uploads/el_TOQUE_portada_ce92a22b2b.jpg\u0026quot;) center center / cover no-repeat; height: 200px;\"\u003e\u003c/div\u003e\u003ch3\u003ePara qué sirve la tasa de elTOQUE\u003c/h3\u003e\u003cp\u003e¿Cómo se usa la tasa representativa del mercado informal de divisas de elTOQUE? 302 respuestas de usuarios recurrentes hicieron posible identificar cinco tendencias de uso. El siguiente texto amplía al respecto.\u003cbr\u003e\u003c/p\u003e\u003c/a\u003e\u003cspan style=\"font-size: 16px; color: rgb(177, 177, 177); position: absolute; right: 82px; bottom: 15px;\"\u003e\u003ci class=\"fas fa-comment-alt\"\u003e\u003c/i\u003e\u003cspan style=\"margin-left: 5px;\"\u003e14\u003c/span\u003e\u003cbutton\u003e\u003ci class=\"fas fa-share-alt\" style=\"margin-left: 25px; cursor: pointer;\"\u003e\u003c/i\u003e\u003c/button\u003e\u003c/span\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son los términos y condiciones de uso de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eExisten varios puntos que no deben incumplirse, tanto para solicitar acceder a los datos que se brindan a través de la API como mientras se esté haciendo uso de la misma:\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSe debe referenciar a \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e como fuente de los datos obtenidos a través de la API. Si se hace uso de la API y se brindan los datos como si fueran de la persona y no de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, el usuario puede ser baneado del uso de nuestra API.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo puede proporcionarse la API a terceros ni para venderla ni para prestarla.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e no se hace responsable del uso que se haga con los datos que obtenga el usuario a través de esta API.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo se puede utilizar la API en relación a cualquier producto o servicio material que constituya promociones \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003epayware\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003ehardware\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e o código malicioso; ni materiales de odio o que entren en actividades de terrorismo, violencia, contenido obsceno, sexualmente explícito y engañoso, fraudulento, ofensivo o discriminatorio por cualquier motivo incluyendo raza, discapacidad, etcétera.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo debe modificar los datos proporcionados por la API; de lo contrario, puede ser objeto de bloqueo de su uso.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"API tasas de elTOQUE - Términos y condiciones de uso \" slug=\"api-tasas-de-eltoque-terminos-y-condiciones-de-uso\" image=\"/uploads/tasa_de_eltoque_ok_3_23c8d2acd0.jpg\" excerpt=\"Estos Términos y condiciones de uso están diseñados para contribuir la  utilización de la API Tasas de elTOQUE, en lo adelante “API Tasas”, de manera consistente con los intereses de elTOQUE.\" comments=\"0\" contenteditable=\"false\"\u003e\u003ca href=\"api-tasas-de-eltoque-terminos-y-condiciones-de-uso\"\u003e\u003cdiv style=\"background: url(\u0026quot;/uploads/tasa_de_eltoque_ok_3_23c8d2acd0.jpg\u0026quot;) center center / cover no-repeat; height: 200px;\"\u003e\u003c/div\u003e\u003ch3\u003eAPI tasas de elTOQUE - Términos y condiciones de uso \u003c/h3\u003e\u003cp\u003eEstos Términos y condiciones de uso están diseñados para contribuir la  utilización de la API Tasas de elTOQUE, en lo adelante “API Tasas”, de manera consistente con los intereses de elTOQUE.\u003c/p\u003e\u003c/a\u003e\u003cspan style=\"font-size: 16px; color: rgb(177, 177, 177); position: absolute; right: 82px; bottom: 15px;\"\u003e\u003ci class=\"fas fa-comment-alt\"\u003e\u003c/i\u003e\u003cspan style=\"margin-left: 5px;\"\u003e0\u003c/span\u003e\u003cbutton\u003e\u003ci class=\"fas fa-share-alt\" style=\"margin-left: 25px; cursor: pointer;\"\u003e\u003c/i\u003e\u003c/button\u003e\u003c/span\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cómo puede accederse a la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ePara usar la API, lo primero que debe hacer el usuario es registrarse a través de un formulario. Entre las informaciones que debe llenarse se encuentran el correo electrónico y el tipo de uso que se va a hacer de la API. Este segundo punto es el más importante y ha sido motivo de rechazo entre algunas personas que han llenado la solicitud, debido a la falta de claridad en el uso que se hará de la API. El uso no tiene que ser expresamente como una herramienta pública, puede utilizarse la API para beneficio propio, pero sí tiene que dejarse claro y ser entendible.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUna vez que el usuario envíe el formulario, en dos o tres días —como máximo— se revisa la solicitud y se genera un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003etoken \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ede autorización para poder utilizar la API. Si el usuario no tiene el \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003etoken\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, está usándolo de manera incorrecta, o si en el uso que le iba a dar puso un origen y empezó a usarlo desde otro, puede verse imposibilitado de hacer uso de nuestra herramienta.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eAlgunas solicitudes refieren que el uso de la API es para consultar la tasa del mercado informal de divisas, pero para ello puede accederse directamente al sitio de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e y/o a sus redes sociales, donde se publica la información diariamente. La API está más enfocada a los desarrolladores, a los sistemas, aplicaciones y herramientas; puede ser incluso un documento de Excel personal, con el cual el usuario busca nutrirse de los datos en tiempo real. En ese caso, por ejemplo, puede ser una explicación válida.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las funciones que brinda la API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eLa API ofrece la Tasa Representativa del Mercado informal en las últimas 24 horas. Al hacer uso de la API, el usuario obtendrá las ofertas desde el momento de la solicitud hasta 24 horas atrás, así como las medianas en tiempo real de los valores de compra y venta de esas ofertas en euro, MLC, USD, bitcoin, usdt y TRX.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSi usted necesita acceder a otra fecha o rango de tiempo, puede enviar la fecha de inicio y fin del rango de tiempo en que quiere obtener la tasa. La API va a devolver un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eJason\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, que es el formato que utiliza para la respuesta, donde se mostrarán las medianas de las ofertas de compraventa en ese rango de tiempo.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las limitaciones y restricciones de la API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSe puede consultar cualquier día, pero el rango de tiempo no puede ser de más de 24 horas. Por otro lado, la API tiene un límite máximo de dos peticiones por minuto y dentro de un mes cuenta con hasta cinco mil peticiones. \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e prevé en un futuro incluir nuevas funcionalidades para los desarrolladores en una opción Premium, pero la versión actual gratuita seguirá contando con estas restricciones.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"Nuevas prestaciones de las tasas de cambio de elTOQUE\" slug=\"nuevas-prestaciones-de-las-tasas-de-cambio-de-eltoque\" image=\"/uploads/Portada_tasa_bbe95aca11.jpg\" excerpt=\"A partir de hoy es posible consultar en un mismo lugar las tasas representativas del mercado informal de divisas y de criptomonedas en Cuba. \" comments=\"0\" contenteditable=\"false\"\u003e\u003ca href=\"nuevas-prestaciones-de-las-tasas-de-cambio-de-eltoque\"\u003e\u003cdiv style=\"background: url(\u0026quot;/uploads/Portada_tasa_bbe95aca11.jpg\u0026quot;) center center / cover no-repeat; height: 200px;\"\u003e\u003c/div\u003e\u003ch3\u003eNuevas prestaciones de las tasas de cambio de elTOQUE\u003c/h3\u003e\u003cp\u003eA partir de hoy es posible consultar en un mismo lugar las tasas representativas del mercado informal de divisas y de criptomonedas en Cuba. \u003c/p\u003e\u003c/a\u003e\u003cspan style=\"font-size: 16px; color: rgb(177, 177, 177); position: absolute; right: 82px; bottom: 15px;\"\u003e\u003ci class=\"fas fa-comment-alt\"\u003e\u003c/i\u003e\u003cspan style=\"margin-left: 5px;\"\u003e0\u003c/span\u003e\u003cbutton\u003e\u003ci class=\"fas fa-share-alt\" style=\"margin-left: 25px; cursor: pointer;\"\u003e\u003c/i\u003e\u003c/button\u003e\u003c/span\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Qué usos recomienda \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e darle a su API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUsted puede tener, por ejemplo, un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eExcel \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003epara calcular los gastos e ingresos de sus finanzas personales. Si lo tiene en pesos cubanos, pero quiere ver cómo se reflejó en dólares en el mercado informal o viceversa, puede valerse de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e; o simplemente para mostrarlo en su sitio web, en su aplicación, en su blog o en su WhatsApp.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eTambién puede utilizarla para aplicaciones móviles, ya sea de Android o de iOS, en las que usted haga algún tipo de gestión financiera. Por ejemplo, un sistema de remesas: hay muchos usuarios que hacen remesas y necesitan consultar continuamente la tasa de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e. Además, puede usarse en \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003echatbots \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ede Telegram y/o WhatsApp, donde se le pregunte y proporcione la información de la tasa.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUno de los usos por los que se apuesta es para las tiendas online. Por ejemplo, si la tienda online vende en pesos cubanos, pero sus gastos son en dólares y necesita saber en cuánto va a vender sus productos, puede utilizar la API para reflejar esos precios dentro de la tienda. Otro uso potencial puede darse en los gastos del envío de paqueterías a Cuba, si se hace en dólares y se quiere ver el equivalente en pesos cubanos.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las perspectivas de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn un futuro se pretende abrir aún más la API y colocar el histórico en grandes rangos de tiempo para presentar gráficas o información más específica sobre los valores de compra y venta, es decir, la mediana de la compra y de la venta, las distancias que hay, etcétera. También se pretende incorporar otras monedas como por ejemplo, el franco suizo, el rublo, e incluso las tasas de los usuarios recurrentes.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn \u003c/span\u003e\u003ca href=\"https://twitter.com/i/spaces/1mnxeRPeqdbKX\" rel=\"noopener noreferrer\" target=\"_blank\"\u003eeste enlace\u003c/a\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e puede escuchar el space de Twitter relacionado con el tema.\u003c/span\u003e\u003c/p\u003e",
+                "excerpt": "Tras dar acceso al API de la Tasa Representativa del Mercado Informal, elTOQUE realizó un space de Twitter donde se respondieron dudas de los usuarios. Aquí les dejamos algunas preguntas y respuestas. ",
+                "publish_date": "2022-12-28T11:30:00.000Z",
+                "keyword": "",
+                "publish_at": "2022-12-28T11:30:00.000Z",
+                "oldSlugs": "",
+                "published_at": "2022-12-28T11:31:00.000Z",
+                "original_date": "2022-12-22T17:50:19.870Z",
+                "createdAt": "2022-12-22T17:50:19.876Z",
+                "updatedAt": "2023-01-11T16:26:00.935Z",
+                "__v": 0,
+                "feature_image": {
+                  "_id": "63bee314ed8925001c368938",
+                  "name": "API elToque.jpg",
+                  "alternativeText": "",
+                  "caption": "",
+                  "hash": "API_el_Toque_b6ff143c48",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 92.25,
+                  "width": 1218,
+                  "height": 714,
+                  "url": "/uploads/API_el_Toque_b6ff143c48.jpg",
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_API elToque.jpg",
+                      "hash": "thumbnail_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 245,
+                      "height": 144,
+                      "size": 5.51,
+                      "path": null,
+                      "url": "/uploads/thumbnail_API_el_Toque_b6ff143c48.jpg"
+                    },
+                    "large": {
+                      "name": "large_API elToque.jpg",
+                      "hash": "large_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 1000,
+                      "height": 586,
+                      "size": 66.33,
+                      "path": null,
+                      "url": "/uploads/large_API_el_Toque_b6ff143c48.jpg"
+                    },
+                    "medium": {
+                      "name": "medium_API elToque.jpg",
+                      "hash": "medium_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 750,
+                      "height": 440,
+                      "size": 40.11,
+                      "path": null,
+                      "url": "/uploads/medium_API_el_Toque_b6ff143c48.jpg"
+                    },
+                    "small": {
+                      "name": "small_API elToque.jpg",
+                      "hash": "small_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 500,
+                      "height": 293,
+                      "size": 19.03,
+                      "path": null,
+                      "url": "/uploads/small_API_el_Toque_b6ff143c48.jpg"
+                    }
+                  },
+                  "provider": "local",
+                  "related": [
+                    "63a498dbed8925001c35f865"
+                  ],
+                  "createdAt": "2023-01-11T16:25:56.335Z",
+                  "updatedAt": "2023-01-11T16:26:00.883Z",
+                  "__v": 0,
+                  "id": "63bee314ed8925001c368938"
+                },
+                "language": "5fc66bd13bb648000db118bb",
+                "microsite": null,
+                "translation": null,
+                "feature_image_alt": "",
+                "feature_image_caption": "",
+                "id": "63a498dbed8925001c35f865"
+              }
+            ],
+            "__v": 0,
+            "threadOf": null,
+            "reports": [
+            ],
+            "comments_ratings": [
+            ],
+            "id": "63af6167ed8925001c3626cc"
+          },
+          {
+            "blocked": false,
+            "blockedThread": false,
+            "points": 0,
+            "deleted": false,
+            "_id": "63be6410ed8925001c3685f5",
+            "content": "Uso para conocimiento de tasas de cambio mercado informal ",
+            "authorId": "aeca825-627b-0686-af74-2da4545bb5af",
+            "authorName": "Ana dolz ",
+            "authorEmail": "ananazario9512@gmail.com",
+            "created_at": "2023-01-11T07:24:00.388Z",
+            "related": [
+              {
+                "__contentType": "Post",
+                "postOpen": true,
+                "sticky": true,
+                "noHome": false,
+                "publish_cron": false,
+                "facebook_crawl": false,
+                "show_ads": true,
+                "no_index": false,
+                "no_page_ads": false,
+                "desinformacion": "no",
+                "firebase_was_notified": false,
+                "was_published": false,
+                "full_embed": false,
+                "authors": [
+                  "600c4765929b80000d284573"
+                ],
+                "tags": [
+                  "629a09aee3ec48001ddb3356",
+                  "600c46bb929b80000d28449a",
+                  "61e0e6df9c1c17001e5eb538"
+                ],
+                "categories": [
+                  "600c46c2929b80000d284512"
+                ],
+                "comments": [
+                  {
+                    "blocked": false,
+                    "blockedThread": false,
+                    "points": 0,
+                    "deleted": false,
+                    "_id": "63ada12aed8925001c361eaf",
+                    "content": "Sigo el toque por la tasa informal y el periodismo es bastante serio sin ir a los extremos ",
+                    "authorId": "be730c-b5c7-8fa3-6c0-ec0b2fc05f0",
+                    "authorName": "Ken Fong ",
+                    "authorEmail": "kenfongsafong@gmail.com",
+                    "created_at": "2022-12-29T14:16:10.123Z",
+                    "related": [
+                      "63a498dbed8925001c35f865"
+                    ],
+                    "__v": 0,
+                    "threadOf": null,
+                    "id": "63ada12aed8925001c361eaf"
+                  },
+                  {
+                    "blocked": false,
+                    "blockedThread": false,
+                    "points": 0,
+                    "deleted": false,
+                    "_id": "63af6167ed8925001c3626cc",
+                    "content": "Y por que no hacen publico el codigo con el que \"calculan\" la tasa de cambio?",
+                    "authorId": "51d844-7202-2f62-2bd5-af2545f3417b",
+                    "authorName": "Mario",
+                    "authorEmail": "mario44322@gmail.com",
+                    "created_at": "2022-12-30T22:08:39.196Z",
+                    "related": [
+                      "63a498dbed8925001c35f865"
+                    ],
+                    "__v": 0,
+                    "threadOf": null,
+                    "id": "63af6167ed8925001c3626cc"
+                  },
+                  {
+                    "blocked": false,
+                    "blockedThread": false,
+                    "points": 0,
+                    "deleted": false,
+                    "_id": "63be6410ed8925001c3685f5",
+                    "content": "Uso para conocimiento de tasas de cambio mercado informal ",
+                    "authorId": "aeca825-627b-0686-af74-2da4545bb5af",
+                    "authorName": "Ana dolz ",
+                    "authorEmail": "ananazario9512@gmail.com",
+                    "created_at": "2023-01-11T07:24:00.388Z",
+                    "related": [
+                      "63a498dbed8925001c35f865"
+                    ],
+                    "__v": 0,
+                    "threadOf": null,
+                    "id": "63be6410ed8925001c3685f5"
+                  }
+                ],
+                "_id": "63a498dbed8925001c35f865",
+                "page_title": "",
+                "title": "Preguntas y respuestas sobre la API de elTOQUE",
+                "slug": "preguntas-y-respuestas-sobre-la-api-de-eltoque",
+                "body": "\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eLa \u003c/span\u003e\u003ca href=\"https://eltoque.com/tasas-de-cambio-de-moneda-en-cuba-hoy\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\"\u003etasa representativa del mercado informal de divisas en Cuba (TRMI)\u003c/a\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e confeccionada por \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e\u0026nbsp;ha sido uno de los servicios más populares entre la audiencia de nuestra plataforma.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eVarios desarrolladores han solicitado que diéramos acceso a otros datos de la TRMI. Algunos han empleado métodos como el \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003escraping\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, una técnica utilizada mediante programas de software para extraer información de sitios web que podría afectar el desempeño del sitio, si se hace de forma incorrecta.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ePara facilitar un acceso seguro y estandarizado, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e presentó recientemente la interfaz de programación de aplicaciones o API de la TRMI, pero aún persisten muchas dudas entre los usuarios en cuanto a su uso, la forma de acceder a la misma y las funcionalidades que brinda.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Es la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e una apk?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo, no es una apk todavía. Se trata de una API, especificación que determina cuáles son las características que necesita el usuario para interactuar con nuestro sistema. Lo que brinda \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e es la tasa representativa del mercado informal de divisas, además de algunas de las tasas de las criptomonedas con las divisas.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn el caso de las criptomonedas, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e sí cuenta con valores de referencia de personas que realmente hicieron transacciones, es decir, a través de plataformas \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eexchange\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e donde se publica la oferta y la transacción que se ejecuta sí es real. En este sentido, los valores de las criptomonedas son más exactos que las ofertas de las divisas, puesto que estas últimas son únicamente referenciales, al tratarse de ofertas que las personas publican en las redes sociales.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"Para qué sirve la tasa de elTOQUE\" slug=\"para-que-sirve-la-tasa-de-eltoque\" image=\"/uploads/el_TOQUE_portada_ce92a22b2b.jpg\" excerpt=\"¿Cómo se usa la tasa representativa del mercado informal de divisas de elTOQUE? 302 respuestas de usuarios recurrentes hicieron posible identificar cinco tendencias de uso. El siguiente texto amplía al respecto.\n\" comments=\"14\" contenteditable=\"false\"\u003e\u003ca href=\"para-que-sirve-la-tasa-de-eltoque\"\u003e\u003cdiv style=\"background: url(\u0026quot;/uploads/el_TOQUE_portada_ce92a22b2b.jpg\u0026quot;) center center / cover no-repeat; height: 200px;\"\u003e\u003c/div\u003e\u003ch3\u003ePara qué sirve la tasa de elTOQUE\u003c/h3\u003e\u003cp\u003e¿Cómo se usa la tasa representativa del mercado informal de divisas de elTOQUE? 302 respuestas de usuarios recurrentes hicieron posible identificar cinco tendencias de uso. El siguiente texto amplía al respecto.\u003cbr\u003e\u003c/p\u003e\u003c/a\u003e\u003cspan style=\"font-size: 16px; color: rgb(177, 177, 177); position: absolute; right: 82px; bottom: 15px;\"\u003e\u003ci class=\"fas fa-comment-alt\"\u003e\u003c/i\u003e\u003cspan style=\"margin-left: 5px;\"\u003e14\u003c/span\u003e\u003cbutton\u003e\u003ci class=\"fas fa-share-alt\" style=\"margin-left: 25px; cursor: pointer;\"\u003e\u003c/i\u003e\u003c/button\u003e\u003c/span\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son los términos y condiciones de uso de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eExisten varios puntos que no deben incumplirse, tanto para solicitar acceder a los datos que se brindan a través de la API como mientras se esté haciendo uso de la misma:\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSe debe referenciar a \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e como fuente de los datos obtenidos a través de la API. Si se hace uso de la API y se brindan los datos como si fueran de la persona y no de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, el usuario puede ser baneado del uso de nuestra API.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo puede proporcionarse la API a terceros ni para venderla ni para prestarla.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e no se hace responsable del uso que se haga con los datos que obtenga el usuario a través de esta API.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo se puede utilizar la API en relación a cualquier producto o servicio material que constituya promociones \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003epayware\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003ehardware\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e o código malicioso; ni materiales de odio o que entren en actividades de terrorismo, violencia, contenido obsceno, sexualmente explícito y engañoso, fraudulento, ofensivo o discriminatorio por cualquier motivo incluyendo raza, discapacidad, etcétera.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eNo debe modificar los datos proporcionados por la API; de lo contrario, puede ser objeto de bloqueo de su uso.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"API tasas de elTOQUE - Términos y condiciones de uso \" slug=\"api-tasas-de-eltoque-terminos-y-condiciones-de-uso\" image=\"/uploads/tasa_de_eltoque_ok_3_23c8d2acd0.jpg\" excerpt=\"Estos Términos y condiciones de uso están diseñados para contribuir la  utilización de la API Tasas de elTOQUE, en lo adelante “API Tasas”, de manera consistente con los intereses de elTOQUE.\" comments=\"0\" contenteditable=\"false\"\u003e\u003ca href=\"api-tasas-de-eltoque-terminos-y-condiciones-de-uso\"\u003e\u003cdiv style=\"background: url(\u0026quot;/uploads/tasa_de_eltoque_ok_3_23c8d2acd0.jpg\u0026quot;) center center / cover no-repeat; height: 200px;\"\u003e\u003c/div\u003e\u003ch3\u003eAPI tasas de elTOQUE - Términos y condiciones de uso \u003c/h3\u003e\u003cp\u003eEstos Términos y condiciones de uso están diseñados para contribuir la  utilización de la API Tasas de elTOQUE, en lo adelante “API Tasas”, de manera consistente con los intereses de elTOQUE.\u003c/p\u003e\u003c/a\u003e\u003cspan style=\"font-size: 16px; color: rgb(177, 177, 177); position: absolute; right: 82px; bottom: 15px;\"\u003e\u003ci class=\"fas fa-comment-alt\"\u003e\u003c/i\u003e\u003cspan style=\"margin-left: 5px;\"\u003e0\u003c/span\u003e\u003cbutton\u003e\u003ci class=\"fas fa-share-alt\" style=\"margin-left: 25px; cursor: pointer;\"\u003e\u003c/i\u003e\u003c/button\u003e\u003c/span\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cómo puede accederse a la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ePara usar la API, lo primero que debe hacer el usuario es registrarse a través de un formulario. Entre las informaciones que debe llenarse se encuentran el correo electrónico y el tipo de uso que se va a hacer de la API. Este segundo punto es el más importante y ha sido motivo de rechazo entre algunas personas que han llenado la solicitud, debido a la falta de claridad en el uso que se hará de la API. El uso no tiene que ser expresamente como una herramienta pública, puede utilizarse la API para beneficio propio, pero sí tiene que dejarse claro y ser entendible.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUna vez que el usuario envíe el formulario, en dos o tres días —como máximo— se revisa la solicitud y se genera un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003etoken \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ede autorización para poder utilizar la API. Si el usuario no tiene el \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003etoken\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, está usándolo de manera incorrecta, o si en el uso que le iba a dar puso un origen y empezó a usarlo desde otro, puede verse imposibilitado de hacer uso de nuestra herramienta.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eAlgunas solicitudes refieren que el uso de la API es para consultar la tasa del mercado informal de divisas, pero para ello puede accederse directamente al sitio de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e y/o a sus redes sociales, donde se publica la información diariamente. La API está más enfocada a los desarrolladores, a los sistemas, aplicaciones y herramientas; puede ser incluso un documento de Excel personal, con el cual el usuario busca nutrirse de los datos en tiempo real. En ese caso, por ejemplo, puede ser una explicación válida.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las funciones que brinda la API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eLa API ofrece la Tasa Representativa del Mercado informal en las últimas 24 horas. Al hacer uso de la API, el usuario obtendrá las ofertas desde el momento de la solicitud hasta 24 horas atrás, así como las medianas en tiempo real de los valores de compra y venta de esas ofertas en euro, MLC, USD, bitcoin, usdt y TRX.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSi usted necesita acceder a otra fecha o rango de tiempo, puede enviar la fecha de inicio y fin del rango de tiempo en que quiere obtener la tasa. La API va a devolver un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eJason\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e, que es el formato que utiliza para la respuesta, donde se mostrarán las medianas de las ofertas de compraventa en ese rango de tiempo.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las limitaciones y restricciones de la API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eSe puede consultar cualquier día, pero el rango de tiempo no puede ser de más de 24 horas. Por otro lado, la API tiene un límite máximo de dos peticiones por minuto y dentro de un mes cuenta con hasta cinco mil peticiones. \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e prevé en un futuro incluir nuevas funcionalidades para los desarrolladores en una opción Premium, pero la versión actual gratuita seguirá contando con estas restricciones.\u003c/span\u003e\u003c/p\u003e\u003cdiv class=\"promotion-ql\" title=\"Nuevas prestaciones de las tasas de cambio de elTOQUE\" slug=\"nuevas-prestaciones-de-las-tasas-de-cambio-de-eltoque\" image=\"/uploads/Portada_tasa_bbe95aca11.jpg\" excerpt=\"A partir de hoy es posible consultar en un mismo lugar las tasas representativas del mercado informal de divisas y de criptomonedas en Cuba. \" comments=\"0\" contenteditable=\"false\"\u003e\u003ca href=\"nuevas-prestaciones-de-las-tasas-de-cambio-de-eltoque\"\u003e\u003cdiv style=\"background: url(\u0026quot;/uploads/Portada_tasa_bbe95aca11.jpg\u0026quot;) center center / cover no-repeat; height: 200px;\"\u003e\u003c/div\u003e\u003ch3\u003eNuevas prestaciones de las tasas de cambio de elTOQUE\u003c/h3\u003e\u003cp\u003eA partir de hoy es posible consultar en un mismo lugar las tasas representativas del mercado informal de divisas y de criptomonedas en Cuba. \u003c/p\u003e\u003c/a\u003e\u003cspan style=\"font-size: 16px; color: rgb(177, 177, 177); position: absolute; right: 82px; bottom: 15px;\"\u003e\u003ci class=\"fas fa-comment-alt\"\u003e\u003c/i\u003e\u003cspan style=\"margin-left: 5px;\"\u003e0\u003c/span\u003e\u003cbutton\u003e\u003ci class=\"fas fa-share-alt\" style=\"margin-left: 25px; cursor: pointer;\"\u003e\u003c/i\u003e\u003c/button\u003e\u003c/span\u003e\u003c/div\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Qué usos recomienda \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e darle a su API?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUsted puede tener, por ejemplo, un \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eExcel \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003epara calcular los gastos e ingresos de sus finanzas personales. Si lo tiene en pesos cubanos, pero quiere ver cómo se reflejó en dólares en el mercado informal o viceversa, puede valerse de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e; o simplemente para mostrarlo en su sitio web, en su aplicación, en su blog o en su WhatsApp.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eTambién puede utilizarla para aplicaciones móviles, ya sea de Android o de iOS, en las que usted haga algún tipo de gestión financiera. Por ejemplo, un sistema de remesas: hay muchos usuarios que hacen remesas y necesitan consultar continuamente la tasa de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e. Además, puede usarse en \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003echatbots \u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003ede Telegram y/o WhatsApp, donde se le pregunte y proporcione la información de la tasa.\u003c/span\u003e\u003c/p\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eUno de los usos por los que se apuesta es para las tiendas online. Por ejemplo, si la tienda online vende en pesos cubanos, pero sus gastos son en dólares y necesita saber en cuánto va a vender sus productos, puede utilizar la API para reflejar esos precios dentro de la tienda. Otro uso potencial puede darse en los gastos del envío de paqueterías a Cuba, si se hace en dólares y se quiere ver el equivalente en pesos cubanos.\u003c/span\u003e\u003c/p\u003e\u003ch2 class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e¿Cuáles son las perspectivas de la API de \u003c/span\u003e\u003cem style=\"color: rgb(0, 0, 0);\"\u003eelTOQUE\u003c/em\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e?\u003c/span\u003e\u003c/h2\u003e\u003cp class=\"ql-align-justify\"\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn un futuro se pretende abrir aún más la API y colocar el histórico en grandes rangos de tiempo para presentar gráficas o información más específica sobre los valores de compra y venta, es decir, la mediana de la compra y de la venta, las distancias que hay, etcétera. También se pretende incorporar otras monedas como por ejemplo, el franco suizo, el rublo, e incluso las tasas de los usuarios recurrentes.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003eEn \u003c/span\u003e\u003ca href=\"https://twitter.com/i/spaces/1mnxeRPeqdbKX\" rel=\"noopener noreferrer\" target=\"_blank\"\u003eeste enlace\u003c/a\u003e\u003cspan style=\"color: rgb(0, 0, 0);\"\u003e puede escuchar el space de Twitter relacionado con el tema.\u003c/span\u003e\u003c/p\u003e",
+                "excerpt": "Tras dar acceso al API de la Tasa Representativa del Mercado Informal, elTOQUE realizó un space de Twitter donde se respondieron dudas de los usuarios. Aquí les dejamos algunas preguntas y respuestas. ",
+                "publish_date": "2022-12-28T11:30:00.000Z",
+                "keyword": "",
+                "publish_at": "2022-12-28T11:30:00.000Z",
+                "oldSlugs": "",
+                "published_at": "2022-12-28T11:31:00.000Z",
+                "original_date": "2022-12-22T17:50:19.870Z",
+                "createdAt": "2022-12-22T17:50:19.876Z",
+                "updatedAt": "2023-01-11T16:26:00.935Z",
+                "__v": 0,
+                "feature_image": {
+                  "_id": "63bee314ed8925001c368938",
+                  "name": "API elToque.jpg",
+                  "alternativeText": "",
+                  "caption": "",
+                  "hash": "API_el_Toque_b6ff143c48",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 92.25,
+                  "width": 1218,
+                  "height": 714,
+                  "url": "/uploads/API_el_Toque_b6ff143c48.jpg",
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_API elToque.jpg",
+                      "hash": "thumbnail_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 245,
+                      "height": 144,
+                      "size": 5.51,
+                      "path": null,
+                      "url": "/uploads/thumbnail_API_el_Toque_b6ff143c48.jpg"
+                    },
+                    "large": {
+                      "name": "large_API elToque.jpg",
+                      "hash": "large_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 1000,
+                      "height": 586,
+                      "size": 66.33,
+                      "path": null,
+                      "url": "/uploads/large_API_el_Toque_b6ff143c48.jpg"
+                    },
+                    "medium": {
+                      "name": "medium_API elToque.jpg",
+                      "hash": "medium_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 750,
+                      "height": 440,
+                      "size": 40.11,
+                      "path": null,
+                      "url": "/uploads/medium_API_el_Toque_b6ff143c48.jpg"
+                    },
+                    "small": {
+                      "name": "small_API elToque.jpg",
+                      "hash": "small_API_el_Toque_b6ff143c48",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "width": 500,
+                      "height": 293,
+                      "size": 19.03,
+                      "path": null,
+                      "url": "/uploads/small_API_el_Toque_b6ff143c48.jpg"
+                    }
+                  },
+                  "provider": "local",
+                  "related": [
+                    "63a498dbed8925001c35f865"
+                  ],
+                  "createdAt": "2023-01-11T16:25:56.335Z",
+                  "updatedAt": "2023-01-11T16:26:00.883Z",
+                  "__v": 0,
+                  "id": "63bee314ed8925001c368938"
+                },
+                "language": "5fc66bd13bb648000db118bb",
+                "microsite": null,
+                "translation": null,
+                "feature_image_alt": "",
+                "feature_image_caption": "",
+                "id": "63a498dbed8925001c35f865"
+              }
+            ],
+            "__v": 0,
+            "threadOf": null,
+            "reports": [
+            ],
+            "comments_ratings": [
+            ],
+            "id": "63be6410ed8925001c3685f5"
+          }
+        ],
+        "language": {
+          "id": "5fc66bd13bb648000db118bb"
+        }
+      },
+      "language": {
+        "id": "5fc66bd13bb648000db118bb",
+        "short": "es",
+        "default": true,
+        "name": "Español"
+      },
+      "innerPDF": [
+      ],
+      "socialMedia": {
+        "_id": "5faffb01953942000d2957e0",
+        "facebookUrl": "https://www.facebook.com/eltoquecom",
+        "twitterUrl": "https://www.twitter.com/eltoquecom",
+        "twitterUser": "@eltoquecom",
+        "youtubeUrl": "https://www.youtube.com/eltoquecom",
+        "telegram": "https://t.me/eltoquecom",
+        "instagram": "https://www.instagram.com/eltoquecom",
+        "published_at": "2020-11-14T15:42:59.822Z",
+        "createdAt": "2020-11-14T15:42:57.227Z",
+        "updatedAt": "2025-01-07T19:24:16.752Z",
+        "__v": 0,
+        "GoogleAdsKey": "ca-pub-6590299016349507",
+        "GoogleAdsSlot": "5318849056",
+        "GoogleAdsTestMode": true,
+        "GoogleAdsVerified": true,
+        "linkedin": "https://www.linkedin.com/company/eltoquecom/",
+        "ivoox": "https://www.ivoox.com/escuchar-eltoquecom_nq_688950_1.html",
+        "whatsapp": "https://ltq.cx/JcA",
+        "id": "5faffb01953942000d2957e0"
+      },
+      "suggestions": {
+        "mostReaded": [
+          {
+            "count": "62569",
+            "date": "2025-04-08",
+            "post": {
+              "title": "Serán más de 200 tiendas en dólares: aquí el listado de las confirmadas",
+              "slug": "tiendas-usd-dolares-cadena-caribe"
+            }
+          },
+          {
+            "count": "30491",
+            "date": "2025-04-18",
+            "post": {
+              "title": " La reinvención de Mayulis: de ingeniera en Cuba a conductora de autobús en España",
+              "slug": "de-ingeniera-en-cuba-a-conductora-de-autobus-en-espana"
+            }
+          },
+          {
+            "count": "27914",
+            "date": "2025-04-15",
+            "post": {
+              "title": "¿Qué podría pasar con la MLC en los próximos meses en Cuba?",
+              "slug": "que-podria-pasar-con-la-mlc-en-los-proximos-meses-en-cuba"
+            }
+          }
+        ],
+        "mostCommented": [
+          {
+            "_id": {
+              "post": {
+                "slug": "adios-a-tuambia-suspenden-compras-y-anuncian-cierre-definitivo-de-envios-a-cuba",
+                "title": "Adiós a Tuambia: suspenden compras y anuncian cierre definitivo de envíos a Cuba\n"
+              }
+            },
+            "count": 22
+          },
+          {
+            "_id": {
+              "post": {
+                "slug": "por-algo-lo-deportaron-un-inmigrante-cubano-bajo-la-nueva-ley-del-miedo",
+                "title": "«Por algo lo deportaron»: un inmigrante cubano bajo la nueva ley del miedo"
+              }
+            },
+            "count": 5
+          },
+          {
+            "_id": {
+              "post": {
+                "slug": "cuanto-cuesta-comer-en-cuba-2025",
+                "title": "¿Cuánto cuesta comer en Cuba en 2025?"
+              }
+            },
+            "count": 4
+          }
+        ],
+        "suggest": [
+          {
+            "title": "Lo que necesitas saber sobre control sanitario para tu viaje a Cuba  ",
+            "slug": "lo-que-necesitas-sobre-control-sanitario-en-tu-viaje-a-cuba",
+            "authors": [
+              {
+                "fullName": "elTOQUE",
+                "username": "sumavoces"
+              }
+            ],
+            "feature_image": {
+              "_id": "618bca0ae0b9df001da2d82d",
+              "name": "2021-11-09-Verdecia-HABANA-VARIADAS-7724.jpg",
+              "alternativeText": "",
+              "caption": "",
+              "hash": "2021_11_09_Verdecia_HABANA_VARIADAS_7724_a46fb76a26",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 111.86,
+              "width": 870,
+              "height": 510,
+              "url": "/uploads/2021_11_09_Verdecia_HABANA_VARIADAS_7724_a46fb76a26.jpg",
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_2021-11-09-Verdecia-HABANA-VARIADAS-7724.jpg",
+                  "hash": "thumbnail_2021_11_09_Verdecia_HABANA_VARIADAS_7724_a46fb76a26",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 245,
+                  "height": 144,
+                  "size": 9.66,
+                  "path": null,
+                  "url": "/uploads/thumbnail_2021_11_09_Verdecia_HABANA_VARIADAS_7724_a46fb76a26.jpg"
+                },
+                "medium": {
+                  "name": "medium_2021-11-09-Verdecia-HABANA-VARIADAS-7724.jpg",
+                  "hash": "medium_2021_11_09_Verdecia_HABANA_VARIADAS_7724_a46fb76a26",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 750,
+                  "height": 440,
+                  "size": 82.82,
+                  "path": null,
+                  "url": "/uploads/medium_2021_11_09_Verdecia_HABANA_VARIADAS_7724_a46fb76a26.jpg"
+                },
+                "small": {
+                  "name": "small_2021-11-09-Verdecia-HABANA-VARIADAS-7724.jpg",
+                  "hash": "small_2021_11_09_Verdecia_HABANA_VARIADAS_7724_a46fb76a26",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 500,
+                  "height": 293,
+                  "size": 38.59,
+                  "path": null,
+                  "url": "/uploads/small_2021_11_09_Verdecia_HABANA_VARIADAS_7724_a46fb76a26.jpg"
+                }
+              },
+              "provider": "local",
+              "related": [
+                "618bc3b3e0b9df001da2d827",
+                "619be75c358a79001f94cbfd"
+              ],
+              "createdAt": "2021-11-10T13:32:58.460Z",
+              "updatedAt": "2021-11-22T18:54:20.318Z",
+              "__v": 0,
+              "id": "618bca0ae0b9df001da2d82d"
+            }
+          },
+          {
+            "title": "¿Por qué estallaron las protestas en Cuba?",
+            "slug": "por-que-estallaron-las-protestas-en-cuba",
+            "authors": [
+              {
+                "fullName": "Jessica Domínguez Delgado",
+                "username": "jessica-dominguez-delgado"
+              }
+            ],
+            "feature_image": {
+              "_id": "60edad18dd2ce6001e869d61",
+              "name": "2021-Evora-CUBA-PROTESTAS-CAPITOLIO.jpg",
+              "alternativeText": "",
+              "caption": "",
+              "hash": "2021_Evora_CUBA_PROTESTAS_CAPITOLIO_0feba61cd3",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 242.98,
+              "width": 1389,
+              "height": 814,
+              "url": "/uploads/2021_Evora_CUBA_PROTESTAS_CAPITOLIO_0feba61cd3.jpg",
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_2021-Evora-CUBA-PROTESTAS-CAPITOLIO.jpg",
+                  "hash": "thumbnail_2021_Evora_CUBA_PROTESTAS_CAPITOLIO_0feba61cd3",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 245,
+                  "height": 144,
+                  "size": 13.31,
+                  "path": null,
+                  "url": "/uploads/thumbnail_2021_Evora_CUBA_PROTESTAS_CAPITOLIO_0feba61cd3.jpg"
+                },
+                "large": {
+                  "name": "large_2021-Evora-CUBA-PROTESTAS-CAPITOLIO.jpg",
+                  "hash": "large_2021_Evora_CUBA_PROTESTAS_CAPITOLIO_0feba61cd3",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 1000,
+                  "height": 586,
+                  "size": 152.83,
+                  "path": null,
+                  "url": "/uploads/large_2021_Evora_CUBA_PROTESTAS_CAPITOLIO_0feba61cd3.jpg"
+                },
+                "medium": {
+                  "name": "medium_2021-Evora-CUBA-PROTESTAS-CAPITOLIO.jpg",
+                  "hash": "medium_2021_Evora_CUBA_PROTESTAS_CAPITOLIO_0feba61cd3",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 750,
+                  "height": 440,
+                  "size": 96.26,
+                  "path": null,
+                  "url": "/uploads/medium_2021_Evora_CUBA_PROTESTAS_CAPITOLIO_0feba61cd3.jpg"
+                },
+                "small": {
+                  "name": "small_2021-Evora-CUBA-PROTESTAS-CAPITOLIO.jpg",
+                  "hash": "small_2021_Evora_CUBA_PROTESTAS_CAPITOLIO_0feba61cd3",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 500,
+                  "height": 293,
+                  "size": 47.47,
+                  "path": null,
+                  "url": "/uploads/small_2021_Evora_CUBA_PROTESTAS_CAPITOLIO_0feba61cd3.jpg"
+                }
+              },
+              "provider": "local",
+              "related": [
+                "60eda49add2ce6001e869d5e"
+              ],
+              "createdAt": "2021-07-13T15:11:20.407Z",
+              "updatedAt": "2021-07-13T15:16:05.893Z",
+              "__v": 0,
+              "id": "60edad18dd2ce6001e869d61"
+            }
+          },
+          {
+            "title": "¿Cómo calcular metros cuadrados?",
+            "slug": "como-calcular-metros-cuadrados",
+            "authors": [
+              {
+                "fullName": "Roberto Pablo Jiménez",
+                "username": "roberto-pablo-jimenez"
+              }
+            ],
+            "feature_image": {
+              "_id": "60d4bd91cdc155001c5367d9",
+              "name": "Metro-cuadrado.jpg",
+              "hash": "Metro_cuadrado_90adeaec32",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 34.6,
+              "width": 870,
+              "height": 500,
+              "url": "/uploads/Metro_cuadrado_90adeaec32.jpg",
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Metro-cuadrado.jpg",
+                  "hash": "thumbnail_Metro_cuadrado_90adeaec32",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 245,
+                  "height": 141,
+                  "size": 5.55,
+                  "path": null,
+                  "url": "/uploads/thumbnail_Metro_cuadrado_90adeaec32.jpg"
+                },
+                "medium": {
+                  "name": "medium_Metro-cuadrado.jpg",
+                  "hash": "medium_Metro_cuadrado_90adeaec32",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 750,
+                  "height": 431,
+                  "size": 28.46,
+                  "path": null,
+                  "url": "/uploads/medium_Metro_cuadrado_90adeaec32.jpg"
+                },
+                "small": {
+                  "name": "small_Metro-cuadrado.jpg",
+                  "hash": "small_Metro_cuadrado_90adeaec32",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 500,
+                  "height": 287,
+                  "size": 15.87,
+                  "path": null,
+                  "url": "/uploads/small_Metro_cuadrado_90adeaec32.jpg"
+                }
+              },
+              "provider": "local",
+              "related": [
+                "60d4bd90cdc155001c5367d8"
+              ],
+              "createdAt": "2021-06-24T17:14:57.594Z",
+              "updatedAt": "2021-06-24T17:14:57.642Z",
+              "__v": 0,
+              "alternativeText": "",
+              "caption": "",
+              "id": "60d4bd91cdc155001c5367d9"
+            }
+          },
+          {
+            "title": "Acceso denegado: ¿qué VPN usar desde Cuba?",
+            "slug": "acceso-denegado-que-vpn-usar-desde-cuba",
+            "authors": [
+              {
+                "fullName": "Alberto C. Toppin",
+                "username": "alberto-c-toppin"
+              }
+            ],
+            "feature_image": {
+              "_id": "600c54593d8c72000d892ea9",
+              "name": "2020-Aguilar-VPN-TECNOLOGIA-CUBA.jpg",
+              "hash": "2020_Aguilar_VPN_TECNOLOGIA_CUBA_a8a4e84bd5",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 280.85,
+              "width": 1672,
+              "height": 980,
+              "url": "/uploads/2020_Aguilar_VPN_TECNOLOGIA_CUBA_a8a4e84bd5.jpg",
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_2020-Aguilar-VPN-TECNOLOGIA-CUBA.jpg",
+                  "hash": "thumbnail_2020_Aguilar_VPN_TECNOLOGIA_CUBA_a8a4e84bd5",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 245,
+                  "height": 144,
+                  "size": 11.44,
+                  "path": null,
+                  "url": "/uploads/thumbnail_2020_Aguilar_VPN_TECNOLOGIA_CUBA_a8a4e84bd5.jpg"
+                },
+                "large": {
+                  "name": "large_2020-Aguilar-VPN-TECNOLOGIA-CUBA.jpg",
+                  "hash": "large_2020_Aguilar_VPN_TECNOLOGIA_CUBA_a8a4e84bd5",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 1000,
+                  "height": 586,
+                  "size": 120.65,
+                  "path": null,
+                  "url": "/uploads/large_2020_Aguilar_VPN_TECNOLOGIA_CUBA_a8a4e84bd5.jpg"
+                },
+                "medium": {
+                  "name": "medium_2020-Aguilar-VPN-TECNOLOGIA-CUBA.jpg",
+                  "hash": "medium_2020_Aguilar_VPN_TECNOLOGIA_CUBA_a8a4e84bd5",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 750,
+                  "height": 440,
+                  "size": 71.61,
+                  "path": null,
+                  "url": "/uploads/medium_2020_Aguilar_VPN_TECNOLOGIA_CUBA_a8a4e84bd5.jpg"
+                },
+                "small": {
+                  "name": "small_2020-Aguilar-VPN-TECNOLOGIA-CUBA.jpg",
+                  "hash": "small_2020_Aguilar_VPN_TECNOLOGIA_CUBA_a8a4e84bd5",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "width": 500,
+                  "height": 293,
+                  "size": 38.15,
+                  "path": null,
+                  "url": "/uploads/small_2020_Aguilar_VPN_TECNOLOGIA_CUBA_a8a4e84bd5.jpg"
+                }
+              },
+              "provider": "local",
+              "related": [
+                "600c54593d8c72000d892ea8"
+              ],
+              "createdAt": "2021-01-23T16:52:41.818Z",
+              "updatedAt": "2021-01-23T16:52:41.857Z",
+              "__v": 0,
+              "alternativeText": "VPN, Tecnología",
+              "caption": "VPN, Tecnología",
+              "id": "600c54593d8c72000d892ea9"
+            }
+          }
+        ],
+        "ratedPosts": {
+          "bestRanked": [
+            {
+              "postid": "680a4717f4093e001d4a4bf7",
+              "title": "La amargura de los habitantes del río Miel: historia de un colapso",
+              "slug": "la-amargura-de-los-habitantes-del-rio-miel-historia-de-un-colapso",
+              "rating": 4.857142857142857,
+              "count": 21,
+              "bayesian": 4.64993813518266
+            },
+            {
+              "postid": "681357f7f4093e001d4a5a9b",
+              "title": " Esperar y esperar: la experiencia de compra en la tienda virtual Caiman53",
+              "slug": "esperar-y-esperar-la-experiencia-de-compra-en-la-tienda-virtual-caiman53",
+              "rating": 5,
+              "count": 11,
+              "bayesian": 4.608219914501546
+            },
+            {
+              "postid": "6808d381f4093e001d4a4a80",
+              "title": "«Por algo lo deportaron»: un inmigrante cubano bajo la nueva ley del miedo",
+              "slug": "por-algo-lo-deportaron-un-inmigrante-cubano-bajo-la-nueva-ley-del-miedo",
+              "rating": 4.923076923076923,
+              "count": 13,
+              "bayesian": 4.59275992671561
+            },
+            {
+              "postid": "680d54e6f4093e001d4a4fca",
+              "title": "\tVeníos",
+              "slug": "venios",
+              "rating": 5,
+              "count": 9,
+              "bayesian": 4.529863897401855
+            },
+            {
+              "postid": "67f65247f4093e001d4a32b6",
+              "title": "¿Puede el Gobierno cubano detectar los dispositivos Starlink en viviendas particulares?",
+              "slug": "puede-el-gobierno-cubano-detectar-los-dispositivos-starlink-en-viviendas-particulares",
+              "rating": 4.470149253731344,
+              "count": 134,
+              "bayesian": 4.439249177585323
+            }
+          ],
+          "worstRanked": [
+            {
+              "postid": "67e674a7f4093e001d4a0d2a",
+              "title": "Hijo de expreso político sufre acoso y es forzado a dejar su carrera",
+              "slug": "hijo-de-ex-preso-politico-sufre-acoso-y-es-forzado-a-dejar-su-carrera",
+              "rating": 1,
+              "count": 1,
+              "bayesian": 0.6493194870092729
+            },
+            {
+              "postid": "67d460df51f720001d6dbbcb",
+              "title": "¿Podrán heredar la tierra quienes no la trabajan?",
+              "slug": "podran-heredar-la-tierra-quienes-no-la-trabajan",
+              "rating": 1,
+              "count": 1,
+              "bayesian": 0.6493194870092729
+            },
+            {
+              "postid": "6736a8e4ee9a95001d676784",
+              "title": "Ley de Memoria Democrática: ¿cómo rastrear antepasados en España?",
+              "slug": "ley-memoria-democratica-rastrear-atepasados",
+              "rating": 1,
+              "count": 1,
+              "bayesian": 0.6493194870092729
+            },
+            {
+              "postid": "65eb785dd6d8ff001e019166",
+              "title": "La renuncia voluntaria de Gil a su condición de diputado es un detalle mayor",
+              "slug": "renuncia-voluntaria-de-gil-detalle-mayor",
+              "rating": 1,
+              "count": 1,
+              "bayesian": 0.6493194870092729
+            },
+            {
+              "postid": "61672f9daf7ca3001fc5b2a5",
+              "title": "Soldados «diferidos» del servicio militar permanecerán en unidades hasta cumplir los 14 meses tras su llamado",
+              "slug": "soldados-diferidos-servicio-militar-en-unidades-hasta-los-14-meses",
+              "rating": 1,
+              "count": 1,
+              "bayesian": 0.6493194870092729
+            }
+          ]
+        }
+      },
+      "related": [
+        {
+          "title": "Diez preguntas y respuestas sobre el mercado informal de divisas",
+          "slug": "preguntas-y-respuestas-sobre-las-tasas-de-cambio",
+          "authors": [
+            {
+              "fullName": "Pavel Vidal Alejandro",
+              "username": "pavel-vidal-alejandro"
+            }
+          ],
+          "feature_image": {
+            "alternativeText": "",
+            "caption": "",
+            "url": "/uploads/2021_10_19_Guirado_HABANA_VARIADAS_193943_595a0ac2bc.jpg",
+            "width": 870,
+            "height": 510
+          },
+          "categories": [
+            {
+              "title": "Sociedad",
+              "slug": "sociedad",
+              "resource": false
+            }
+          ]
+        },
+        {
+          "title": "Servicios de Airbnb en Cuba enfrentan nuevas restricciones\r\n",
+          "slug": "servicios-de-airbnb-en-cuba-enfrentan-nuevas-restricciones",
+          "authors": [
+            {
+              "fullName": "Glenda Boza Ibarra",
+              "username": "glenda-boza-ibarra"
+            }
+          ],
+          "feature_image": {
+            "alternativeText": "renta de casas Cuba airbnb",
+            "caption": "Foto: elTOQUE. ",
+            "url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2022_03_08_Mederos_HABANA_VARIADAS_38_3992be8717.jpg/public",
+            "width": 1218,
+            "height": 714
+          },
+          "categories": [
+            {
+              "title": "Sociedad",
+              "slug": "sociedad",
+              "resource": false
+            }
+          ]
+        },
+        {
+          "title": "¿Por qué el litro de aceite cuesta más de mil pesos en Cuba?",
+          "slug": "por-que-el-litro-de-aceite-cuesta-mas-de-mil-pesos-en-cuba",
+          "authors": [
+            {
+              "fullName": "Glenda Boza Ibarra",
+              "username": "glenda-boza-ibarra"
+            }
+          ],
+          "feature_image": {
+            "alternativeText": "tienda dólares Cuba aceite",
+            "caption": "Aceite en una tienda en dólares en La Habana. Foto: Tomada de redes sociales.",
+            "url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/Aceite_en_una_tienda_en_USD_en_La_Habana_cd161d6db9.jpg/public",
+            "width": 1218,
+            "height": 714
+          },
+          "categories": [
+            {
+              "title": "Sociedad",
+              "slug": "sociedad",
+              "resource": false
+            }
+          ]
+        },
+        {
+          "title": "Cuba extiende hasta septiembre de 2025 la exención de aranceles a alimentos, medicinas y plantas eléctricas",
+          "slug": "cuba-extiende-exencion-de-aranceles-a-alimentos-medicinas-y-plantas-electricas",
+          "authors": [
+            {
+              "fullName": "elTOQUE Jurídico",
+              "username": "el-toque-juridico"
+            }
+          ],
+          "feature_image": {
+            "alternativeText": "",
+            "caption": "Foto: Sadiel Mederos.",
+            "url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2025_04_28_Mederos_AVIONES_AEROPUERTOS_70_f177dea0c2.jpg/public",
+            "width": 1218,
+            "height": 714
+          },
+          "categories": [
+            {
+              "title": "elTOQUE Jurídico",
+              "slug": "juridico",
+              "resource": false
+            }
+          ]
+        },
+        {
+          "title": "Cinco aumentos salariales en cuatro años: igual se van los médicos y maestros",
+          "slug": "cinco-aumentos-salariales-no-frenan-la-fuga-de-maestros-y-medicos-en-cuba",
+          "authors": [
+            {
+              "fullName": "Glenda Boza Ibarra",
+              "username": "glenda-boza-ibarra"
+            }
+          ],
+          "feature_image": {
+            "alternativeText": "puesto médico vacío Cuba ",
+            "caption": "Foto: elTOQUE. ",
+            "url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2023_11_29_Orfeo_SALUD_MEDICOS_20_14b660ce7f.jpg/public",
+            "width": 1218,
+            "height": 714
+          },
+          "categories": [
+            {
+              "title": "Sociedad",
+              "slug": "sociedad",
+              "resource": false
+            }
+          ]
+        },
+        {
+          "title": "Multas: el método del Gobierno para disminuir el déficit fiscal y castigar al sector privado\r\n",
+          "slug": "multas-el-metodo-del-gobierno-para-disminuir-el-deficit-fiscal-y-castigar-al-sector-privado",
+          "authors": [
+            {
+              "fullName": "Glenda Boza Ibarra",
+              "username": "glenda-boza-ibarra"
+            }
+          ],
+          "feature_image": {
+            "alternativeText": "mano vector fiscal Cuba",
+            "caption": "Foto: elTOQUE.",
+            "url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2021_10_19_Asclepio_VARIADAS_36_b005744db7.jpg/public",
+            "width": 1218,
+            "height": 714
+          },
+          "categories": [
+            {
+              "title": "Sociedad",
+              "slug": "sociedad",
+              "resource": false
+            }
+          ]
+        }
+      ],
+      "newsletter": {
+        "fullWidth": {
+          "alternativeText": "",
+          "caption": "",
+          "url": "/uploads/adsnewsletter_bbc6484e40.jpg",
+          "width": 1920,
+          "height": 300
+        },
+        "halfWidth": {
+          "alternativeText": "",
+          "caption": "",
+          "url": "/uploads/newaletter_2_columnas_5b61f9fd01.jpg",
+          "width": 1462,
+          "height": 300
+        },
+        "square": {
+          "alternativeText": "",
+          "caption": "",
+          "url": "/uploads/adsright_bc9a1ee036.jpg",
+          "width": 500,
+          "height": 450
+        },
+        "language": {
+          "short": "es"
+        }
+      },
+      "noAvatar": [
+        {
+          "_id": "606e0366403f6708abc764d9",
+          "name": "avatar.jpg",
+          "alternativeText": "",
+          "caption": "",
+          "hash": "avatar_f9b25458c2",
+          "ext": ".jpg",
+          "mime": "image/png",
+          "size": 34.45,
+          "width": 500,
+          "height": 500,
+          "url": "/uploads/avatar_f9b25458c2.jpg",
+          "formats": {
+            "thumbnail": {
+              "name": "thumbnail_avatar.jpg",
+              "hash": "thumbnail_avatar_f9b25458c2",
+              "ext": ".jpg",
+              "mime": "image/png",
+              "width": 156,
+              "height": 156,
+              "size": 12.57,
+              "path": null,
+              "url": "/uploads/thumbnail_avatar_f9b25458c2.jpg"
+            }
+          },
+          "provider": "local",
+          "related": [
+          ],
+          "createdAt": "2021-04-07T19:09:26.551Z",
+          "updatedAt": "2021-05-03T01:14:38.486Z",
+          "__v": 0,
+          "id": "606e0366403f6708abc764d9"
+        }
+      ],
+      "ads": {
+        "_id": "608af284508c1606007dfe6b",
+        "google_ca_client": "ca-pub-9665834629580390",
+        "published_at": "2021-04-29T17:53:10.886Z",
+        "Ads": [
+          {
+            "tipo": "Cuadrado",
+            "_id": "608af285508c1606007dfe6c",
+            "ads_title": "Cuadrado - Movil",
+            "ads_slot": "1840914642",
+            "__v": 0,
+            "id": "608af285508c1606007dfe6c"
+          },
+          {
+            "tipo": "Horizontal",
+            "_id": "608af285508c1606007dfe6d",
+            "ads_title": "Horizontal - PC",
+            "ads_slot": "7387668495",
+            "__v": 0,
+            "id": "608af285508c1606007dfe6d"
+          },
+          {
+            "tipo": "Vertical",
+            "_id": "608af285508c1606007dfe6e",
+            "ads_title": "Vertical - PC",
+            "ads_slot": "9088849274",
+            "__v": 0,
+            "id": "608af285508c1606007dfe6e"
+          }
+        ],
+        "createdAt": "2021-04-29T17:53:08.998Z",
+        "updatedAt": "2025-02-11T22:54:07.216Z",
+        "__v": 1,
+        "id": "608af284508c1606007dfe6b"
+      },
+      "money": {
+        "enabled": true,
+        "data": {
+          "monedas": [
+            {
+              "enabled": true,
+              "_id": "60e4bc9c5548c8001cb7fbee",
+              "Nombre": "Euro",
+              "short_show": "EUR",
+              "short_db": "ECU",
+              "flag_code": "eu",
+              "__v": 0,
+              "id": "60e4bc9c5548c8001cb7fbee"
+            },
+            {
+              "enabled": true,
+              "_id": "60e4bc6b5548c8001cb7fbeb",
+              "Nombre": "Dólar Estadounidense",
+              "short_show": "USD",
+              "short_db": "USD",
+              "flag_code": "us",
+              "__v": 0,
+              "id": "60e4bc6b5548c8001cb7fbeb"
+            },
+            {
+              "enabled": true,
+              "_id": "60e4bc6b5548c8001cb7fbea",
+              "Nombre": "USD en saldo de cuenta bancaria",
+              "short_show": "MLC",
+              "short_db": "MLC",
+              "flag_code": "mlc",
+              "__v": 0,
+              "id": "60e4bc6b5548c8001cb7fbea"
+            },
+            {
+              "enabled": true,
+              "_id": "60e4bca85548c8001cb7fbf4",
+              "Nombre": "Dólar Canadiense",
+              "short_show": "CAD",
+              "short_db": "CAD",
+              "flag_code": "ca",
+              "__v": 0,
+              "id": "60e4bca85548c8001cb7fbf4"
+            },
+            {
+              "enabled": true,
+              "_id": "60e4bc9c5548c8001cb7fbef",
+              "Nombre": "Franco Suizo",
+              "short_show": "CHF",
+              "short_db": "CHF",
+              "flag_code": "ch",
+              "__v": 0,
+              "id": "60e4bc9c5548c8001cb7fbef"
+            },
+            {
+              "enabled": true,
+              "_id": "60e4bd015548c8001cb7fbfa",
+              "short_show": "DKK",
+              "short_db": "DKK",
+              "flag_code": "dk",
+              "Nombre": "Corona Danesa",
+              "__v": 0,
+              "id": "60e4bd015548c8001cb7fbfa"
+            },
+            {
+              "enabled": true,
+              "_id": "60e4bd4e5548c8001cb7fc03",
+              "Nombre": "Yen Japonés",
+              "short_show": "JPY",
+              "short_db": "JPY",
+              "flag_code": "jp",
+              "__v": 0,
+              "id": "60e4bd4e5548c8001cb7fc03"
+            },
+            {
+              "enabled": true,
+              "_id": "60e4bd6b5548c8001cb7fc0c",
+              "short_show": "MXN",
+              "short_db": "MXN",
+              "flag_code": "mx",
+              "Nombre": "Peso Mexicano",
+              "__v": 0,
+              "id": "60e4bd6b5548c8001cb7fc0c"
+            },
+            {
+              "enabled": true,
+              "_id": "60e4bda95548c8001cb7fc16",
+              "short_show": "NOK",
+              "short_db": "NOK",
+              "Nombre": "Corona Noruega",
+              "flag_code": "no",
+              "__v": 0,
+              "id": "60e4bda95548c8001cb7fc16"
+            },
+            {
+              "enabled": true,
+              "_id": "60e4bdce5548c8001cb7fc21",
+              "short_show": "SEK",
+              "short_db": "SEK",
+              "Nombre": "Corona Sueca",
+              "flag_code": "se",
+              "__v": 0,
+              "id": "60e4bdce5548c8001cb7fc21"
+            },
+            {
+              "enabled": true,
+              "_id": "680f4f31f4093e001d4a5145",
+              "Nombre": "Zelle",
+              "short_show": "ZELLE",
+              "short_db": "USD_Zelle.CUP",
+              "flag_code": "zelle",
+              "__v": 0,
+              "id": "680f4f31f4093e001d4a5145"
+            }
+          ],
+          "api": {
+            "statistics": {
+              "CLA": {
+                "avg": 360,
+                "min": 360,
+                "max": 360,
+                "count_values": 9,
+                "median": 360,
+                "standard_deviation": 0,
+                "count_messages": 9,
+                "p_avg": 360,
+                "avg_diff": 0,
+                "p_min": 360,
+                "min_diff": 0,
+                "p_max": 360,
+                "max_diff": 0,
+                "p_median": 360,
+                "median_diff": 0,
+                "p_count_values": 4,
+                "p_count_messages": 4
+              },
+              "USDT_TRC20": {
+                "avg": 401.05,
+                "min": 370,
+                "max": 415,
+                "count_values": 62,
+                "median": 405,
+                "standard_deviation": 73.94,
+                "count_messages": 62,
+                "p_avg": 399.76,
+                "avg_diff": 1.29,
+                "p_min": 370,
+                "min_diff": 0,
+                "p_max": 435,
+                "max_diff": -20,
+                "p_median": 400,
+                "median_diff": 5,
+                "p_count_values": 56,
+                "p_count_messages": 56
+              },
+              "MLC": {
+                "avg": 258.95,
+                "min": 230,
+                "max": 275,
+                "count_values": 379,
+                "median": 260,
+                "standard_deviation": 17.15,
+                "count_messages": 324,
+                "p_avg": 259.98,
+                "avg_diff": -1.03,
+                "p_min": 230,
+                "min_diff": 0,
+                "p_max": 275,
+                "max_diff": 0,
+                "p_median": 260,
+                "median_diff": 0,
+                "p_count_values": 236,
+                "p_count_messages": 207,
+                "unstable": true,
+                "tendency": "down"
+              },
+              "BRL": {
+                "avg": 64,
+                "min": 64,
+                "max": 64,
+                "count_values": 1,
+                "median": 64,
+                "standard_deviation": 0,
+                "count_messages": 1,
+                "p_avg": 64,
+                "avg_diff": 0,
+                "p_min": 64,
+                "min_diff": 0,
+                "p_max": 64,
+                "max_diff": 0,
+                "p_median": 64,
+                "median_diff": 0,
+                "p_count_values": 1,
+                "p_count_messages": 1
+              },
+              "CAD": {
+                "avg": 228.54,
+                "min": 210,
+                "max": 260,
+                "count_values": 48,
+                "median": 230,
+                "standard_deviation": 22.02,
+                "count_messages": 44,
+                "p_avg": 230.04,
+                "avg_diff": -1.5,
+                "p_min": 210,
+                "min_diff": 0,
+                "p_max": 260,
+                "max_diff": 0,
+                "p_median": 230,
+                "median_diff": 0,
+                "p_count_values": 50,
+                "p_count_messages": 48
+              },
+              "USD": {
+                "avg": 369.92,
+                "min": 340,
+                "max": 393,
+                "count_values": 882,
+                "median": 370,
+                "standard_deviation": 16.4,
+                "count_messages": 729,
+                "p_avg": 369.54,
+                "avg_diff": 0.38,
+                "p_min": 345,
+                "min_diff": -5,
+                "p_max": 390,
+                "max_diff": 3,
+                "p_median": 370,
+                "median_diff": 0,
+                "p_count_values": 690,
+                "p_count_messages": 612,
+                "unstable": false,
+                "tendency": "none"
+              },
+              "ECU": {
+                "avg": 383.15,
+                "min": 367,
+                "max": 400,
+                "count_values": 220,
+                "median": 385,
+                "standard_deviation": 9.06,
+                "count_messages": 197,
+                "p_avg": 386.22,
+                "avg_diff": -3.07,
+                "p_min": 370,
+                "min_diff": -3,
+                "p_max": 400,
+                "max_diff": 0,
+                "p_median": 385,
+                "median_diff": 0,
+                "p_count_values": 143,
+                "p_count_messages": 138,
+                "unstable": false,
+                "tendency": "none"
+              },
+              "BTC": {
+                "avg": 391.5,
+                "min": 390,
+                "max": 393,
+                "count_values": 2,
+                "median": 393,
+                "standard_deviation": 1.5,
+                "count_messages": 2,
+                "p_avg": 389.67,
+                "avg_diff": 1.83,
+                "p_min": 385,
+                "min_diff": 5,
+                "p_max": 393,
+                "max_diff": 0,
+                "p_median": 392,
+                "median_diff": 1,
+                "p_count_values": 3,
+                "p_count_messages": 3
+              },
+              "CHF": {
+                "avg": 291,
+                "min": 291,
+                "max": 291,
+                "count_values": 1,
+                "median": 291,
+                "standard_deviation": 0,
+                "count_messages": 1,
+                "p_avg": 291,
+                "avg_diff": 0,
+                "p_min": 291,
+                "min_diff": 0,
+                "p_max": 291,
+                "max_diff": 0,
+                "p_median": 291,
+                "median_diff": 0,
+                "p_count_values": 1,
+                "p_count_messages": 1
+              },
+              "GBP": {
+                "avg": 405,
+                "min": 405,
+                "max": 405,
+                "count_values": 2,
+                "median": 405,
+                "standard_deviation": 2.36,
+                "count_messages": 2,
+                "p_avg": 405,
+                "avg_diff": 0,
+                "p_min": 400,
+                "min_diff": 5,
+                "p_max": 415,
+                "max_diff": -10,
+                "p_median": 405,
+                "median_diff": 0,
+                "p_count_values": 4,
+                "p_count_messages": 4
+              },
+              "TRX": {
+                "avg": 103,
+                "min": 93,
+                "max": 115,
+                "count_values": 14,
+                "median": 110,
+                "standard_deviation": 16.5,
+                "count_messages": 14,
+                "p_avg": 104.3,
+                "avg_diff": -1.3,
+                "p_min": 93,
+                "min_diff": 0,
+                "p_max": 110,
+                "max_diff": 5,
+                "p_median": 110,
+                "median_diff": 0,
+                "p_count_values": 10,
+                "p_count_messages": 10
+              },
+              "MXN": {
+                "avg": 17.67,
+                "min": 17,
+                "max": 18.5,
+                "count_values": 3,
+                "median": 18,
+                "standard_deviation": 2.51,
+                "count_messages": 3,
+                "p_avg": 15.5,
+                "avg_diff": 2.17,
+                "p_min": 12,
+                "min_diff": 5,
+                "p_max": 18.5,
+                "max_diff": 0,
+                "p_median": 17.25,
+                "median_diff": 0.75,
+                "p_count_values": 3,
+                "p_count_messages": 3
+              },
+              "USD_Zelle.CUP": {
+                "avg": 369.21,
+                "min": 340,
+                "max": 393,
+                "count_values": 29,
+                "median": 362,
+                "count_messages": 26,
+                "p_avg": 364.6,
+                "avg_diff": 4.61,
+                "p_min": 340,
+                "min_diff": 0,
+                "p_max": 390,
+                "max_diff": 3,
+                "p_median": 360,
+                "median_diff": 2,
+                "p_count_values": 20,
+                "p_count_messages": 19
+              }
+            }
+          },
+          "info": {
+            "disclaimer": "Los valores de REFERENCIA que aquí se muestran son el resultado del cálculo de la mediana de los números escritos en ofertas de compra y venta de divisas registradas por nuestro sistema automatizado en sitios web de clasificados y grupos de redes sociales. No son operaciones concretadas, sino expresiones de «deseos» de los actores del mercado informal. El precio final de la compraventa entre privados puede y suele variar. Insistimos en que los números que mostramos no son la tasa OFICIAL, sino que deben ser tomados solo como REFERENCIA. Más información, clic en el botón de +",
+            "link": "/tasas-de-cambio-de-moneda-en-cuba-hoy",
+            "minMessages": 5
+          }
+        }
+      },
+      "promoPublicidad": {
+        "_id": "61aa21e3217fd1001db33760",
+        "name": "promo-publicidad.jpg",
+        "alternativeText": "",
+        "caption": "",
+        "hash": "promo_publicidad_2d36db59f5",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 241.18,
+        "width": 1080,
+        "height": 1080,
+        "url": "/uploads/promo_publicidad_2d36db59f5.jpg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_promo-publicidad.jpg",
+            "hash": "thumbnail_promo_publicidad_2d36db59f5",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 156,
+            "height": 156,
+            "size": 7.81,
+            "path": null,
+            "url": "/uploads/thumbnail_promo_publicidad_2d36db59f5.jpg"
+          },
+          "large": {
+            "name": "large_promo-publicidad.jpg",
+            "hash": "large_promo_publicidad_2d36db59f5",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 1000,
+            "height": 1000,
+            "size": 205.71,
+            "path": null,
+            "url": "/uploads/large_promo_publicidad_2d36db59f5.jpg"
+          },
+          "medium": {
+            "name": "medium_promo-publicidad.jpg",
+            "hash": "medium_promo_publicidad_2d36db59f5",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 750,
+            "height": 750,
+            "size": 110.5,
+            "path": null,
+            "url": "/uploads/medium_promo_publicidad_2d36db59f5.jpg"
+          },
+          "small": {
+            "name": "small_promo-publicidad.jpg",
+            "hash": "small_promo_publicidad_2d36db59f5",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 500,
+            "size": 50.32,
+            "path": null,
+            "url": "/uploads/small_promo_publicidad_2d36db59f5.jpg"
+          }
+        },
+        "provider": "local",
+        "related": [
+        ],
+        "createdAt": "2021-12-03T13:55:47.115Z",
+        "updatedAt": "2021-12-03T13:55:47.127Z",
+        "__v": 0,
+        "id": "61aa21e3217fd1001db33760"
+      },
+      "_nextI18Next": {
+        "initialI18nStore": {
+          "es": {
+            "common": {
+              "menu": {
+                "human-rights": "Derechos Humanos",
+                "cubanos-en-estados-unidos": "Cubanos en Estados Unidos",
+                "cubanos-en-españa": "Cubanos en España",
+                "exchange-rate": "Tasas de elTOQUE",
+                "research": "Investigaciones",
+                "videos": "Videos",
+                "economy": "Economía",
+                "home": "Inicio",
+                "about-us": "¿Quiénes somos?",
+                "society": "Sociedad",
+                "culture": "Cultura",
+                "entrepreneurship": "Emprendimiento",
+                "opinion": "Opinión",
+                "report": "Reportaje",
+                "stories": "Historias",
+                "data": "Datos",
+                "multimedia": "Multimedia",
+                "coverages": "Coberturas",
+                "megazines": "Revistas",
+                "specials": "Especiales",
+                "previus-projects": "Proyectos Anteriores",
+                "ad-content": "Contenido Publicitario",
+                "et-juridico": "elTOQUE Jurídico",
+                "desinf-juridicas": "Desinformaciones\u003cbr/\u003eJurídicas",
+                "de-facto": "DeFacto",
+                "matraca": "Matraca",
+                "historias-al-oido": "Historias al oído",
+                "family-code": "Código de las Familias",
+                "shop": "Tienda",
+                "search": "Buscar en el sitio...",
+                "search-error-lenght": "Escriba al menos 4 caracteres",
+                "search-error-required": "Inserte el término de búsqueda"
+              },
+              "home": {
+                "coverage-section": "Cobertura Especial",
+                "indie-projects": "Proyectos",
+                "most-read": "Lo más leído",
+                "most-commented": "Lo más comentado",
+                "et-suggests": "elTOQUE sugiere",
+                "opinion": "Opinión",
+                "special": "Especiales",
+                "show-all": "Ver Todos",
+                "most-liked": "Lo más gustado",
+                "least-liked": "Lo menos gustado",
+                "loading": "cargando",
+                "loading-more-results": "Cargando más resultados...",
+                "load-more": "Cargar más resultados",
+                "projects": "Proyectos"
+              },
+              "exchange": {
+                "title": "MERCADO INFORMAL DE DIVISAS EN CUBA (TIEMPO REAL)",
+                "title-mobil": "MERCADO INFORMAL DE\u003cbr/\u003eDIVISAS EN CUBA (TIEMPO REAL)",
+                "left-btn": "Tasa Representativa\u003cbr/\u003emercado criptomonedas",
+                "center-btn": "criptomonedas",
+                "right-btn": "tasa informal"
+              },
+              "about-us": {
+                "title": "¿QUIÉNES SOMOS?",
+                "behind": "DETRÁS DE LA ESCENA",
+                "wedo": "HACEMOS PERIODISMO BAJO ESTOS PRESUPUESTOS",
+                "awards": "Premios",
+                "invitation": "TE INVITAMOS A QUE TE INVOLUCRES CON NOSOTROS",
+                "style": "¿QUIERES SABER MÁS?",
+                "style-text": "Ponemos a tu disposición algunos documentos normativos que pautan nuestro trabajo.",
+                "contactus": "contáctanos",
+                "name": "Nombre",
+                "error-name-required": "Inserte el nombre",
+                "email": "Correo",
+                "error-email-required": "Inserte una dirección de correo",
+                "error-email-invalid": "Inserte una dirección de correo válida",
+                "website": "Sitio Web",
+                "message": "Mensaje",
+                "error-message-required": "Escriba el mensaje",
+                "send-message": "Enviar",
+                "sending-message": "Enviando...",
+                "message-sent-error": "Ha ocurrido un problema enviando el mensaje, intente más tarde.",
+                "message-sent": "Su mensaje se ha enviado correctamente, le responderemos a la mayor brevedad posible."
+              },
+              "news": {
+                "rate-this-news": "Evalúe esta noticia",
+                "related-news": "Noticias relacionadas",
+                "comments": "Comentarios",
+                "comments-policy": "En este sitio moderamos los comentarios. Si quiere conocer más detalles, lea nuestra \u003ca href='/declaracion-de-privacidad'\u003ePolítica de Privacidad\u003c/a\u003e.",
+                "comments-policy-two": "Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con *",
+                "comment": "Comentario",
+                "comment-error-required": "El comentario es requerido",
+                "send-comment-cancel": "Cancelar",
+                "comment-sent": "El comentario ha sido enviado.",
+                "comment-waiting-moderated": "Su comentario está en espera de ser revisado por un moderador."
+              },
+              "news-promo": {
+                "promo": "\u003cp class='promo-text'\u003eSi crees que nuestro periodismo es relevante para Cuba y su pueblo, queremos que sepas que este es un momento crítico.\u003c/p\u003e\u003cp class='promo-text'\u003eDetrás de cada publicación hay un equipo que se esmera porque nuestros productos cumplan altos estándares de calidad y se apeguen a los valores profesionales y éticos.\u003c/p\u003e\u003cp class='promo-text'\u003ePero mantener la vigilancia sobre el poder, exigir transparencia, investigar, analizar los problemas de nuestra sociedad y visibilizar los temas ocultos en la agenda pública; es un ejercicio que requiere recursos.\u003c/p\u003e\u003cp class='promo-text'\u003eTú puedes contribuir con nuestra misión y por eso hoy solicitamos tu ayuda. Selecciona la vía que prefieras para hacernos llegar una contribución.\u003c/p\u003e"
+              },
+              "footer": {
+                "copyright": "es un proyecto de",
+                "disclaimer": "Mas Voces Foundation, Inc. REGISTRATION # CH76101. A copy of the official registration and financial information may be obtained from the Division of Consumer Services by calling toll-free (800-435-7352) within the state. Registration does not imply endorsement, approval, or recommendation by the state.",
+                "privacy": "Declaración de Privacidad",
+                "map": "Mapa del Sitio",
+                "archive": "Archivo"
+              },
+              "firebase": {
+                "allow-window-title": "No te pierdas nuestras novedades",
+                "allow-window-title-mobile": "No te pierdas\u003cbr/\u003enuestras novedades",
+                "allow-window-description": "Suscríbete a las notificaciones y entérate al instante de todo lo que tenemos para ti: breaking news, alertas de mercado, transmisiones en vivo ¡y más!",
+                "allow-window-allow-button": "Suscribirme ahora",
+                "allow-window-not-allow-button": "No, gracias"
+              }
+            }
+          }
+        },
+        "initialLocale": "es",
+        "ns": [
+          "common"
+        ],
+        "userConfig": {
+          "i18n": {
+            "locales": [
+              "es",
+              "en"
+            ],
+            "defaultLocale": "es",
+            "localeDetection": false
+          },
+          "fallbackLng": {
+            "default": [
+              "es"
+            ]
+          },
+          "localePath": "/opt/app/public/locales",
+          "default": {
+            "i18n": {
+              "locales": [
+                "es",
+                "en"
+              ],
+              "defaultLocale": "es",
+              "localeDetection": false
+            },
+            "fallbackLng": {
+              "default": [
+                "es"
+              ]
+            },
+            "localePath": "/opt/app/public/locales"
+          }
+        }
+      }
+    },
+    "__N_SSG": true
+  },
+  "page": "/[slug]",
+  "query": {
+    "slug": "preguntas-y-respuestas-sobre-la-api-de-eltoque"
+  },
+  "buildId": "HZGGVz0qgWNBAwBnW1zmp",
+  "isFallback": false,
+  "isExperimentalCompile": false,
+  "gsp": true,
+  "locale": "es",
+  "locales": [
+    "es",
+    "en"
+  ],
+  "defaultLocale": "es",
+  "scriptLoader": [
+  ]
+}

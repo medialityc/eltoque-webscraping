@@ -9,4 +9,3 @@ from models.response.exchange_rate import ExchangeRate
 class ApiResponse(BaseModel):
     currencies: List[Currency]
     exchange_rates: List[ExchangeRate]
-    datetime: Optional[str] = None

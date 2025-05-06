@@ -7,14 +7,6 @@ def extract_money_data(json_data):
         raw_currencies = data["monedas"]
         raw_exchange_rates = data["api"]["statistics"]
 
-        date_str = data["api"]["date"]
-        hour = data["api"]["hour"]
-        minutes = data["api"]["minutes"]
-        seconds = data["api"]["seconds"]
-        full_datetime = datetime.strptime(
-            f"{date_str} {hour}:{minutes}:{seconds}", "%Y-%m-%d %H:%M:%S"
-        ).isoformat()
-
         currencies = [
             {
                 "id": currency.get("id") or currency.get("_id"),
@@ -38,7 +30,6 @@ def extract_money_data(json_data):
         merged_data = {
             "currencies": currencies,
             "exchange_rates": exchange_rates,
-            "datetime": full_datetime
         }
 
         return merged_data
